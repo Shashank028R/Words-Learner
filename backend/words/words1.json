@@ -1,0 +1,6036 @@
+{
+  "1": [
+    {
+      "id": 1,
+      "word": "the",
+      "meaning": "Used to refer to specific or particular nouns.",
+      "hindi": "वह"
+    },
+    {
+      "id": 2,
+      "word": "be",
+      "meaning": "To exist or live.",
+      "hindi": "होना"
+    },
+    {
+      "id": 3,
+      "word": "to",
+      "meaning": "Expressing motion in the direction of a place.",
+      "hindi": "को"
+    },
+    {
+      "id": 4,
+      "word": "of",
+      "meaning": "Expressing the relationship between a part and a whole.",
+      "hindi": "का"
+    },
+    {
+      "id": 5,
+      "word": "and",
+      "meaning": "Used to connect words of the same part of speech.",
+      "hindi": "और"
+    },
+    {
+      "id": 6,
+      "word": "a",
+      "meaning": "Used when referring to someone or something for the first time.",
+      "hindi": "एक"
+    },
+    {
+      "id": 7,
+      "word": "in",
+      "meaning": "Expressing the situation of something that is enclosed.",
+      "hindi": "में"
+    },
+    {
+      "id": 8,
+      "word": "that",
+      "meaning": "Used to identify a specific person or thing.",
+      "hindi": "कि"
+    },
+    {
+      "id": 9,
+      "word": "have",
+      "meaning": "Possess, own, or hold.",
+      "hindi": "पास होना"
+    },
+    {
+      "id": 10,
+      "word": "I",
+      "meaning": "Used by a speaker to refer to himself or herself.",
+      "hindi": "मैं"
+    },
+    {
+      "id": 11,
+      "word": "it",
+      "meaning": "Used to refer to a thing previously mentioned.",
+      "hindi": "यह"
+    },
+    {
+      "id": 12,
+      "word": "for",
+      "meaning": "In support of or in favor of.",
+      "hindi": "के लिए"
+    },
+    {
+      "id": 13,
+      "word": "not",
+      "meaning": "Used to make a statement negative.",
+      "hindi": "नहीं"
+    },
+    {
+      "id": 14,
+      "word": "on",
+      "meaning": "Physically in contact with and supported by a surface.",
+      "hindi": "पर"
+    },
+    {
+      "id": 15,
+      "word": "with",
+      "meaning": "Accompanied by.",
+      "hindi": "साथ में"
+    },
+    {
+      "id": 16,
+      "word": "he",
+      "meaning": "Used to refer to a man, boy, or male animal.",
+      "hindi": "वह"
+    },
+    {
+      "id": 17,
+      "word": "as",
+      "meaning": "Used in comparisons to refer to the extent of something.",
+      "hindi": "जैसा"
+    },
+    {
+      "id": 18,
+      "word": "you",
+      "meaning": "Used to refer to the person or people being addressed.",
+      "hindi": "तुम"
+    },
+    {
+      "id": 19,
+      "word": "do",
+      "meaning": "To perform an action.",
+      "hindi": "करना"
+    },
+    {
+      "id": 20,
+      "word": "at",
+      "meaning": "Expressing location or arrival in a particular place.",
+      "hindi": "पर"
+    },
+    {
+      "id": 21,
+      "word": "this",
+      "meaning": "Used to identify a specific person or thing close at hand.",
+      "hindi": "यह"
+    },
+    {
+      "id": 22,
+      "word": "but",
+      "meaning": "Used to introduce a phrase or clause contrasting with what has been said.",
+      "hindi": "लेकिन"
+    },
+    {
+      "id": 23,
+      "word": "his",
+      "meaning": "Belonging to or associated with a male person.",
+      "hindi": "उसका"
+    },
+    {
+      "id": 24,
+      "word": "by",
+      "meaning": "Indicating the means of achieving something.",
+      "hindi": "द्वारा"
+    },
+    {
+      "id": 25,
+      "word": "from",
+      "meaning": "Indicating the starting point of a motion.",
+      "hindi": "से"
+    },
+    {
+      "id": 26,
+      "word": "they",
+      "meaning": "Used to refer to two or more people or things.",
+      "hindi": "वे"
+    },
+    {
+      "id": 27,
+      "word": "we",
+      "meaning": "Used by a speaker to refer to himself and one or more other people.",
+      "hindi": "हम"
+    },
+    {
+      "id": 28,
+      "word": "say",
+      "meaning": "To utter words so as to convey information.",
+      "hindi": "कहना"
+    },
+    {
+      "id": 29,
+      "word": "her",
+      "meaning": "Used as the object of a verb or preposition to refer to a female.",
+      "hindi": "उसकी"
+    },
+    {
+      "id": 30,
+      "word": "she",
+      "meaning": "Used to refer to a woman, girl, or female animal.",
+      "hindi": "वह"
+    },
+    {
+      "id": 31,
+      "word": "or",
+      "meaning": "Used to link alternatives.",
+      "hindi": "या"
+    },
+    {
+      "id": 32,
+      "word": "an",
+      "meaning": "The form of the indefinite article 'a' used before a vowel sound.",
+      "hindi": "एक"
+    },
+    {
+      "id": 33,
+      "word": "will",
+      "meaning": "Expressing the future tense.",
+      "hindi": "करेगा"
+    },
+    {
+      "id": 34,
+      "word": "my",
+      "meaning": "Belonging to or associated with the speaker.",
+      "hindi": "मेरा"
+    },
+    {
+      "id": 35,
+      "word": "one",
+      "meaning": "The lowest cardinal number; half of two.",
+      "hindi": "एक"
+    },
+    {
+      "id": 36,
+      "word": "all",
+      "meaning": "Used to refer to the whole quantity or extent of a group.",
+      "hindi": "सब"
+    },
+    {
+      "id": 37,
+      "word": "would",
+      "meaning": "Expressing the conditional mood.",
+      "hindi": "होगा"
+    },
+    {
+      "id": 38,
+      "word": "there",
+      "meaning": "In, at, or to that place or position.",
+      "hindi": "वहाँ"
+    },
+    {
+      "id": 39,
+      "word": "their",
+      "meaning": "Belonging to or associated with the people or things previously mentioned.",
+      "hindi": "उनका"
+    },
+    {
+      "id": 40,
+      "word": "what",
+      "meaning": "Asking for information specifying something.",
+      "hindi": "क्या"
+    },
+    {
+      "id": 41,
+      "word": "so",
+      "meaning": "To such a great extent.",
+      "hindi": "तो"
+    },
+    {
+      "id": 42,
+      "word": "up",
+      "meaning": "Toward a higher place or position.",
+      "hindi": "ऊपर"
+    },
+    {
+      "id": 43,
+      "word": "out",
+      "meaning": "Moving or appearing to move away from a particular place.",
+      "hindi": "बाहर"
+    },
+    {
+      "id": 44,
+      "word": "if",
+      "meaning": "Introducing a conditional clause.",
+      "hindi": "अगर"
+    },
+    {
+      "id": 45,
+      "word": "about",
+      "meaning": "On the subject of; concerning.",
+      "hindi": "के बारे में"
+    },
+    {
+      "id": 46,
+      "word": "who",
+      "meaning": "What or which person or people.",
+      "hindi": "कौन"
+    },
+    {
+      "id": 47,
+      "word": "get",
+      "meaning": "Come to have or hold; receive.",
+      "hindi": "पाना"
+    },
+    {
+      "id": 48,
+      "word": "which",
+      "meaning": "Asking for information specifying one or more people or things.",
+      "hindi": "कौन सा"
+    },
+    {
+      "id": 49,
+      "word": "go",
+      "meaning": "Move from one place to another.",
+      "hindi": "जाना"
+    },
+    {
+      "id": 50,
+      "word": "me",
+      "meaning": "Used by a speaker to refer to himself or herself as the object of a verb.",
+      "hindi": "मुझे"
+    }
+  ],
+  "2": [
+    {
+      "id": 1,
+      "word": "when",
+      "meaning": "At what time.",
+      "hindi": "जब"
+    },
+    {
+      "id": 2,
+      "word": "make",
+      "meaning": "To form by putting parts together.",
+      "hindi": "बनाना"
+    },
+    {
+      "id": 3,
+      "word": "can",
+      "meaning": "Be able to.",
+      "hindi": "सकना"
+    },
+    {
+      "id": 4,
+      "word": "like",
+      "meaning": "Having the same characteristics as someone or something else.",
+      "hindi": "पसंद"
+    },
+    {
+      "id": 5,
+      "word": "time",
+      "meaning": "The indefinite continued progress of existence.",
+      "hindi": "समय"
+    },
+    {
+      "id": 6,
+      "word": "no",
+      "meaning": "Not any.",
+      "hindi": "नहीं"
+    },
+    {
+      "id": 7,
+      "word": "just",
+      "meaning": "Based on or behaving according to what is morally right.",
+      "hindi": "केवल"
+    },
+    {
+      "id": 8,
+      "word": "him",
+      "meaning": "Used as the object of a verb to refer to a male person.",
+      "hindi": "उसे"
+    },
+    {
+      "id": 9,
+      "word": "know",
+      "meaning": "Have knowledge or information about.",
+      "hindi": "जानना"
+    },
+    {
+      "id": 10,
+      "word": "take",
+      "meaning": "Lay hold of something with one's hands; reach for and hold.",
+      "hindi": "लेना"
+    },
+    {
+      "id": 11,
+      "word": "person",
+      "meaning": "A human being.",
+      "hindi": "व्यक्ति"
+    },
+    {
+      "id": 12,
+      "word": "into",
+      "meaning": "Expressing movement to a position inside something.",
+      "hindi": "में"
+    },
+    {
+      "id": 13,
+      "word": "year",
+      "meaning": "The time taken by the earth to make one revolution around the sun.",
+      "hindi": "साल"
+    },
+    {
+      "id": 14,
+      "word": "your",
+      "meaning": "Belonging to the person or people being addressed.",
+      "hindi": "आपका"
+    },
+    {
+      "id": 15,
+      "word": "good",
+      "meaning": "To be desired or approved of.",
+      "hindi": "अच्छा"
+    },
+    {
+      "id": 16,
+      "word": "some",
+      "meaning": "An unspecified amount or number of.",
+      "hindi": "कुछ"
+    },
+    {
+      "id": 17,
+      "word": "could",
+      "meaning": "Used as the past tense of can, to indicate possibility.",
+      "hindi": "सकता था"
+    },
+    {
+      "id": 18,
+      "word": "them",
+      "meaning": "Used as the object of a verb to refer to two or more people.",
+      "hindi": "उन्हें"
+    },
+    {
+      "id": 19,
+      "word": "see",
+      "meaning": "Perceive with the eyes.",
+      "hindi": "देखना"
+    },
+    {
+      "id": 20,
+      "word": "other",
+      "meaning": "Used to refer to a person or thing that is different.",
+      "hindi": "अन्य"
+    },
+    {
+      "id": 21,
+      "word": "than",
+      "meaning": "Introducing the second element in a comparison.",
+      "hindi": "की तुलना में"
+    },
+    {
+      "id": 22,
+      "word": "then",
+      "meaning": "At that time; at the time in question.",
+      "hindi": "तब"
+    },
+    {
+      "id": 23,
+      "word": "now",
+      "meaning": "At the present time or moment.",
+      "hindi": "अब"
+    },
+    {
+      "id": 24,
+      "word": "look",
+      "meaning": "Direct one's gaze toward someone or something.",
+      "hindi": "देखना"
+    },
+    {
+      "id": 25,
+      "word": "only",
+      "meaning": "And no one or nothing more besides.",
+      "hindi": "केवल"
+    },
+    {
+      "id": 26,
+      "word": "come",
+      "meaning": "Move or travel toward the speaker.",
+      "hindi": "आना"
+    },
+    {
+      "id": 27,
+      "word": "its",
+      "meaning": "Belonging to or associated with a thing previously mentioned.",
+      "hindi": "इसका"
+    },
+    {
+      "id": 28,
+      "word": "over",
+      "meaning": "Extending directly upward from.",
+      "hindi": "ऊपर"
+    },
+    {
+      "id": 29,
+      "word": "think",
+      "meaning": "Have a particular opinion, belief, or idea.",
+      "hindi": "सोचना"
+    },
+    {
+      "id": 30,
+      "word": "also",
+      "meaning": "In addition; too.",
+      "hindi": "भी"
+    },
+    {
+      "id": 31,
+      "word": "back",
+      "meaning": "The rear surface of the human body.",
+      "hindi": "वापस"
+    },
+    {
+      "id": 32,
+      "word": "after",
+      "meaning": "In the time following an event.",
+      "hindi": "बाद में"
+    },
+    {
+      "id": 33,
+      "word": "use",
+      "meaning": "Take, hold, or deploy as a means of accomplishing a purpose.",
+      "hindi": "उपयोग"
+    },
+    {
+      "id": 34,
+      "word": "two",
+      "meaning": "Equivalent to the sum of one and one.",
+      "hindi": "दो"
+    },
+    {
+      "id": 35,
+      "word": "how",
+      "meaning": "In what way or manner.",
+      "hindi": "कैसे"
+    },
+    {
+      "id": 36,
+      "word": "our",
+      "meaning": "Belonging to or associated with the speaker and others.",
+      "hindi": "हमारा"
+    },
+    {
+      "id": 37,
+      "word": "work",
+      "meaning": "Activity involving mental or physical effort.",
+      "hindi": "काम"
+    },
+    {
+      "id": 38,
+      "word": "first",
+      "meaning": "Coming before all others in time or order.",
+      "hindi": "पहला"
+    },
+    {
+      "id": 39,
+      "word": "well",
+      "meaning": "In a good or satisfactory way.",
+      "hindi": "अच्छा"
+    },
+    {
+      "id": 40,
+      "word": "way",
+      "meaning": "A method, style, or manner of doing something.",
+      "hindi": "रास्ता"
+    },
+    {
+      "id": 41,
+      "word": "even",
+      "meaning": "Used to emphasize something surprising.",
+      "hindi": "भी"
+    },
+    {
+      "id": 42,
+      "word": "new",
+      "meaning": "Produced, introduced, or discovered recently.",
+      "hindi": "नया"
+    },
+    {
+      "id": 43,
+      "word": "want",
+      "meaning": "Have a desire to possess or do something.",
+      "hindi": "चाहना"
+    },
+    {
+      "id": 44,
+      "word": "because",
+      "meaning": "For the reason that; since.",
+      "hindi": "क्योंकि"
+    },
+    {
+      "id": 45,
+      "word": "any",
+      "meaning": "Used to refer to one or some of a thing, no matter how much or many.",
+      "hindi": "कोई"
+    },
+    {
+      "id": 46,
+      "word": "these",
+      "meaning": "Plural of this.",
+      "hindi": "ये"
+    },
+    {
+      "id": 47,
+      "word": "give",
+      "meaning": "Freely transfer the possession of something to someone.",
+      "hindi": "देना"
+    },
+    {
+      "id": 48,
+      "word": "day",
+      "meaning": "A period of twenty-four hours.",
+      "hindi": "दिन"
+    },
+    {
+      "id": 49,
+      "word": "most",
+      "meaning": "Greatest in amount or degree.",
+      "hindi": "अधिकांश"
+    },
+    {
+      "id": 50,
+      "word": "us",
+      "meaning": "Used by a speaker to refer to himself and others as the object of a verb.",
+      "hindi": "हमें"
+    }
+  ],
+  "3": [
+    {
+      "id": 1,
+      "word": "find",
+      "meaning": "Discover or perceive by chance or unexpectedly.",
+      "hindi": "खोजना"
+    },
+    {
+      "id": 2,
+      "word": "here",
+      "meaning": "In, at, or to this place or position.",
+      "hindi": "यहाँ"
+    },
+    {
+      "id": 3,
+      "word": "thing",
+      "meaning": "An object that one need not, cannot, or does not wish to give a specific name to.",
+      "hindi": "चीज़"
+    },
+    {
+      "id": 4,
+      "word": "many",
+      "meaning": "A large number of.",
+      "hindi": "अनेक"
+    },
+    {
+      "id": 5,
+      "word": "very",
+      "meaning": "In a high degree.",
+      "hindi": "बहुत"
+    },
+    {
+      "id": 6,
+      "word": "woman",
+      "meaning": "An adult female human being.",
+      "hindi": "महिला"
+    },
+    {
+      "id": 7,
+      "word": "through",
+      "meaning": "Moving in one side and out of the other side of an opening.",
+      "hindi": "के माध्यम से"
+    },
+    {
+      "id": 8,
+      "word": "life",
+      "meaning": "The condition that distinguishes animals and plants from inorganic matter.",
+      "hindi": "जीवन"
+    },
+    {
+      "id": 9,
+      "word": "child",
+      "meaning": "A young human being below the age of puberty.",
+      "hindi": "बच्चा"
+    },
+    {
+      "id": 10,
+      "word": "down",
+      "meaning": "Toward or in a lower place or position.",
+      "hindi": "नीचे"
+    },
+    {
+      "id": 11,
+      "word": "may",
+      "meaning": "Expressing possibility.",
+      "hindi": "सकते हैं"
+    },
+    {
+      "id": 12,
+      "word": "should",
+      "meaning": "Used to indicate obligation, duty, or correctness.",
+      "hindi": "चाहिए"
+    },
+    {
+      "id": 13,
+      "word": "call",
+      "meaning": "Cry out to someone in order to summon them.",
+      "hindi": "बुलाना"
+    },
+    {
+      "id": 14,
+      "word": "world",
+      "meaning": "The earth, together with all of its countries and peoples.",
+      "hindi": "दुनिया"
+    },
+    {
+      "id": 15,
+      "word": "school",
+      "meaning": "An institution for educating children.",
+      "hindi": "विद्यालय"
+    },
+    {
+      "id": 16,
+      "word": "still",
+      "meaning": "Not moving or making a sound.",
+      "hindi": "फिर भी"
+    },
+    {
+      "id": 17,
+      "word": "try",
+      "meaning": "Make an attempt or effort to do something.",
+      "hindi": "प्रयास"
+    },
+    {
+      "id": 18,
+      "word": "last",
+      "meaning": "Coming after all others in time or order.",
+      "hindi": "अंतिम"
+    },
+    {
+      "id": 19,
+      "word": "ask",
+      "meaning": "Say something in order to obtain an answer or information.",
+      "hindi": "पूछना"
+    },
+    {
+      "id": 20,
+      "word": "need",
+      "meaning": "Require something because it is essential.",
+      "hindi": "ज़रूरत"
+    },
+    {
+      "id": 21,
+      "word": "too",
+      "meaning": "To a higher degree than is desirable, permissible, or possible.",
+      "hindi": "बहुत"
+    },
+    {
+      "id": 22,
+      "word": "feel",
+      "meaning": "Experience an emotion or sensation.",
+      "hindi": "महसूस करना"
+    },
+    {
+      "id": 23,
+      "word": "three",
+      "meaning": "Equivalent to the sum of one and two.",
+      "hindi": "तीन"
+    },
+    {
+      "id": 24,
+      "word": "state",
+      "meaning": "The particular condition that someone or something is in at a specific time.",
+      "hindi": "राज्य"
+    },
+    {
+      "id": 25,
+      "word": "never",
+      "meaning": "At no time in the past or future.",
+      "hindi": "कभी नहीं"
+    },
+    {
+      "id": 26,
+      "word": "become",
+      "meaning": "Begin to be.",
+      "hindi": "बनना"
+    },
+    {
+      "id": 27,
+      "word": "between",
+      "meaning": "At, into, or across the space separating two objects.",
+      "hindi": "बीच में"
+    },
+    {
+      "id": 28,
+      "word": "high",
+      "meaning": "Of great vertical extent.",
+      "hindi": "ऊँचा"
+    },
+    {
+      "id": 29,
+      "word": "really",
+      "meaning": "In actual fact, as opposed to what is said or imagined.",
+      "hindi": "वास्तव में"
+    },
+    {
+      "id": 30,
+      "word": "something",
+      "meaning": "A thing that is unspecified or unknown.",
+      "hindi": "कुछ"
+    },
+    {
+      "id": 31,
+      "word": "another",
+      "meaning": "Used to refer to an additional person or thing of the same type.",
+      "hindi": "एक और"
+    },
+    {
+      "id": 32,
+      "word": "family",
+      "meaning": "A group consisting of parents and children living together.",
+      "hindi": "परिवार"
+    },
+    {
+      "id": 33,
+      "word": "own",
+      "meaning": "Used with a possessive to emphasize that someone or something belongs to oneself.",
+      "hindi": "अपना"
+    },
+    {
+      "id": 34,
+      "word": "leave",
+      "meaning": "Go away from.",
+      "hindi": "छोड़ना"
+    },
+    {
+      "id": 35,
+      "word": "put",
+      "meaning": "Move to or place in a particular position.",
+      "hindi": "रखना"
+    },
+    {
+      "id": 36,
+      "word": "old",
+      "meaning": "Having lived for a long time; no longer young.",
+      "hindi": "पुराना"
+    },
+    {
+      "id": 37,
+      "word": "while",
+      "meaning": "A period of time.",
+      "hindi": "जबकि"
+    },
+    {
+      "id": 38,
+      "word": "mean",
+      "meaning": "Intend to convey or refer to.",
+      "hindi": "मतलब"
+    },
+    {
+      "id": 39,
+      "word": "keep",
+      "meaning": "Have or retain possession of.",
+      "hindi": "रखना"
+    },
+    {
+      "id": 40,
+      "word": "student",
+      "meaning": "A person who is studying at a school or college.",
+      "hindi": "छात्र"
+    },
+    {
+      "id": 41,
+      "word": "why",
+      "meaning": "For what reason or purpose.",
+      "hindi": "क्यों"
+    },
+    {
+      "id": 42,
+      "word": "let",
+      "meaning": "Not prevent or forbid; allow.",
+      "hindi": "करने देना"
+    },
+    {
+      "id": 43,
+      "word": "great",
+      "meaning": "Of an extent, amount, or intensity considerably above the normal.",
+      "hindi": "महान"
+    },
+    {
+      "id": 44,
+      "word": "same",
+      "meaning": "Identical; not different.",
+      "hindi": "वही"
+    },
+    {
+      "id": 45,
+      "word": "big",
+      "meaning": "Of considerable size, extent, or intensity.",
+      "hindi": "बड़ा"
+    },
+    {
+      "id": 46,
+      "word": "group",
+      "meaning": "A number of people or things that are located close together.",
+      "hindi": "समूह"
+    },
+    {
+      "id": 47,
+      "word": "begin",
+      "meaning": "Start; perform or undergo the first part of an action.",
+      "hindi": "शुरू करना"
+    },
+    {
+      "id": 48,
+      "word": "seem",
+      "meaning": "Give the impression or sensation of being something.",
+      "hindi": "लगना"
+    },
+    {
+      "id": 49,
+      "word": "country",
+      "meaning": "A nation with its own government, occupying a particular territory.",
+      "hindi": "देश"
+    },
+    {
+      "id": 50,
+      "word": "help",
+      "meaning": "Make it easier for someone to do something by offering one's services.",
+      "hindi": "मदद"
+    }
+  ],
+  "4": [
+    {
+      "id": 1,
+      "word": "talk",
+      "meaning": "Speak in order to give information or express ideas.",
+      "hindi": "बात करना"
+    },
+    {
+      "id": 2,
+      "word": "where",
+      "meaning": "In or to what place or position.",
+      "hindi": "कहाँ"
+    },
+    {
+      "id": 3,
+      "word": "turn",
+      "meaning": "Move in a circular direction wholly or partly around an axis.",
+      "hindi": "मोड़"
+    },
+    {
+      "id": 4,
+      "word": "problem",
+      "meaning": "A matter or situation regarded as unwelcome or harmful.",
+      "hindi": "समस्या"
+    },
+    {
+      "id": 5,
+      "word": "every",
+      "meaning": "Used to refer to all the individual members of a set without exception.",
+      "hindi": "हर"
+    },
+    {
+      "id": 6,
+      "word": "start",
+      "meaning": "Begin or be reckoned from a particular point in time or space.",
+      "hindi": "शुरू"
+    },
+    {
+      "id": 7,
+      "word": "hand",
+      "meaning": "The end part of a person's arm beyond the wrist.",
+      "hindi": "हाथ"
+    },
+    {
+      "id": 8,
+      "word": "might",
+      "meaning": "Past of may; expressing possibility.",
+      "hindi": "शायद"
+    },
+    {
+      "id": 9,
+      "word": "American",
+      "meaning": "Relating to or characteristic of the United States.",
+      "hindi": "अमेरिकी"
+    },
+    {
+      "id": 10,
+      "word": "show",
+      "meaning": "Allow or cause to be visible.",
+      "hindi": "दिखाना"
+    },
+    {
+      "id": 11,
+      "word": "part",
+      "meaning": "A piece or segment of something.",
+      "hindi": "भाग"
+    },
+    {
+      "id": 12,
+      "word": "against",
+      "meaning": "In opposition to.",
+      "hindi": "के खिलाफ"
+    },
+    {
+      "id": 13,
+      "word": "place",
+      "meaning": "A particular position or point in space.",
+      "hindi": "जगह"
+    },
+    {
+      "id": 14,
+      "word": "such",
+      "meaning": "Of the type previously mentioned.",
+      "hindi": "ऐसा"
+    },
+    {
+      "id": 15,
+      "word": "again",
+      "meaning": "Another time; once more.",
+      "hindi": "फिर से"
+    },
+    {
+      "id": 16,
+      "word": "few",
+      "meaning": "A small number of.",
+      "hindi": "कुछ"
+    },
+    {
+      "id": 17,
+      "word": "case",
+      "meaning": "An instance of a particular situation.",
+      "hindi": "मामला"
+    },
+    {
+      "id": 18,
+      "word": "week",
+      "meaning": "A period of seven days.",
+      "hindi": "सप्ताह"
+    },
+    {
+      "id": 19,
+      "word": "company",
+      "meaning": "A commercial business.",
+      "hindi": "कंपनी"
+    },
+    {
+      "id": 20,
+      "word": "system",
+      "meaning": "A set of things working together as parts of a mechanism.",
+      "hindi": "प्रणाली"
+    },
+    {
+      "id": 21,
+      "word": "each",
+      "meaning": "Used to refer to every one of two or more people or things.",
+      "hindi": "प्रत्येक"
+    },
+    {
+      "id": 22,
+      "word": "right",
+      "meaning": "Morally good, justified, or acceptable.",
+      "hindi": "सही"
+    },
+    {
+      "id": 23,
+      "word": "program",
+      "meaning": "A planned series of future events or performances.",
+      "hindi": "कार्यक्रम"
+    },
+    {
+      "id": 24,
+      "word": "hear",
+      "meaning": "Perceive with the ear the sound made by someone or something.",
+      "hindi": "सुनना"
+    },
+    {
+      "id": 25,
+      "word": "question",
+      "meaning": "A sentence worded so as to elicit information.",
+      "hindi": "प्रश्न"
+    },
+    {
+      "id": 26,
+      "word": "during",
+      "meaning": "Throughout the course or duration of a period of time.",
+      "hindi": "दौरान"
+    },
+    {
+      "id": 27,
+      "word": "play",
+      "meaning": "Engage in activity for enjoyment and recreation.",
+      "hindi": "खेलना"
+    },
+    {
+      "id": 28,
+      "word": "government",
+      "meaning": "The governing body of a nation, state, or community.",
+      "hindi": "सरकार"
+    },
+    {
+      "id": 29,
+      "word": "run",
+      "meaning": "Move at a speed faster than a walk.",
+      "hindi": "दौड़ना"
+    },
+    {
+      "id": 30,
+      "word": "small",
+      "meaning": "Of a size that is less than normal or usual.",
+      "hindi": "छोटा"
+    },
+    {
+      "id": 31,
+      "word": "number",
+      "meaning": "An arithmetical value, expressed by a word, symbol, or figure.",
+      "hindi": "संख्या"
+    },
+    {
+      "id": 32,
+      "word": "off",
+      "meaning": "Away from the place in question; to or at a distance.",
+      "hindi": "बंद"
+    },
+    {
+      "id": 33,
+      "word": "always",
+      "meaning": "On all occasions; at all times.",
+      "hindi": "हमेशा"
+    },
+    {
+      "id": 34,
+      "word": "move",
+      "meaning": "Go in a specified direction or manner.",
+      "hindi": "चलना"
+    },
+    {
+      "id": 35,
+      "word": "night",
+      "meaning": "The period from sunset to sunrise in each twenty-four hours.",
+      "hindi": "रात"
+    },
+    {
+      "id": 36,
+      "word": "live",
+      "meaning": "Remain alive.",
+      "hindi": "जीना"
+    },
+    {
+      "id": 37,
+      "word": "Mr.",
+      "meaning": "A title used before a man's surname or full name.",
+      "hindi": "श्रीमान"
+    },
+    {
+      "id": 38,
+      "word": "point",
+      "meaning": "A particular spot, place, or position in an area or on a map.",
+      "hindi": "बिंदु"
+    },
+    {
+      "id": 39,
+      "word": "believe",
+      "meaning": "Accept that something is true.",
+      "hindi": "विश्वास करना"
+    },
+    {
+      "id": 40,
+      "word": "hold",
+      "meaning": "Grasp, carry, or support with one's hands.",
+      "hindi": "पकड़ना"
+    },
+    {
+      "id": 41,
+      "word": "today",
+      "meaning": "On or in the course of this present day.",
+      "hindi": "आज"
+    },
+    {
+      "id": 42,
+      "word": "bring",
+      "meaning": "Take or go with someone or something to a place.",
+      "hindi": "लाना"
+    },
+    {
+      "id": 43,
+      "word": "happen",
+      "meaning": "Take place; occur.",
+      "hindi": "होना"
+    },
+    {
+      "id": 44,
+      "word": "next",
+      "meaning": "Coming immediately after the time of writing or speaking.",
+      "hindi": "अगला"
+    },
+    {
+      "id": 45,
+      "word": "without",
+      "meaning": "Not having or using.",
+      "hindi": "बिना"
+    },
+    {
+      "id": 46,
+      "word": "before",
+      "meaning": "During the period of time preceding a particular event.",
+      "hindi": "पहले"
+    },
+    {
+      "id": 47,
+      "word": "large",
+      "meaning": "Of considerable or relatively great size.",
+      "hindi": "बड़ा"
+    },
+    {
+      "id": 48,
+      "word": "million",
+      "meaning": "The number equivalent to the product of a thousand and a thousand.",
+      "hindi": "दस लाख"
+    },
+    {
+      "id": 49,
+      "word": "must",
+      "meaning": "Be obliged to; should.",
+      "hindi": "ज़रूर"
+    },
+    {
+      "id": 50,
+      "word": "home",
+      "meaning": "The place where one lives permanently.",
+      "hindi": "घर"
+    }
+  ],
+  "5": [
+    {
+      "id": 1,
+      "word": "under",
+      "meaning": "At a lower level than.",
+      "hindi": "नीचे"
+    },
+    {
+      "id": 2,
+      "word": "water",
+      "meaning": "A colorless, transparent, odorless liquid.",
+      "hindi": "पानी"
+    },
+    {
+      "id": 3,
+      "word": "room",
+      "meaning": "Space that can be occupied or where something can be done.",
+      "hindi": "कमरा"
+    },
+    {
+      "id": 4,
+      "word": "write",
+      "meaning": "Mark letters, words, or other symbols on a surface.",
+      "hindi": "लिखना"
+    },
+    {
+      "id": 5,
+      "word": "mother",
+      "meaning": "A female parent.",
+      "hindi": "मां"
+    },
+    {
+      "id": 6,
+      "word": "area",
+      "meaning": "A region or part of a town, a country, or the world.",
+      "hindi": "क्षेत्र"
+    },
+    {
+      "id": 7,
+      "word": "national",
+      "meaning": "Relating to a nation.",
+      "hindi": "राष्ट्रीय"
+    },
+    {
+      "id": 8,
+      "word": "money",
+      "meaning": "A current medium of exchange in the form of coins and banknotes.",
+      "hindi": "पैसा"
+    },
+    {
+      "id": 9,
+      "word": "story",
+      "meaning": "An account of imaginary or real people and events.",
+      "hindi": "कहानी"
+    },
+    {
+      "id": 10,
+      "word": "young",
+      "meaning": "Having lived or existed for only a short time.",
+      "hindi": "युवा"
+    },
+    {
+      "id": 11,
+      "word": "fact",
+      "meaning": "A thing that is known or proved to be true.",
+      "hindi": "तथ्य"
+    },
+    {
+      "id": 12,
+      "word": "month",
+      "meaning": "Each of the twelve named periods into which a year is divided.",
+      "hindi": "महीना"
+    },
+    {
+      "id": 13,
+      "word": "different",
+      "meaning": "Not the same as another or each other.",
+      "hindi": "अलग"
+    },
+    {
+      "id": 14,
+      "word": "lot",
+      "meaning": "A large number or amount.",
+      "hindi": "बहुत"
+    },
+    {
+      "id": 15,
+      "word": "study",
+      "meaning": "The devotion of time and attention to acquiring knowledge.",
+      "hindi": "पढ़ाई"
+    },
+    {
+      "id": 16,
+      "word": "book",
+      "meaning": "A written or printed work consisting of pages glued or sewn together.",
+      "hindi": "किताब"
+    },
+    {
+      "id": 17,
+      "word": "eye",
+      "meaning": "The organ of sight.",
+      "hindi": "आंख"
+    },
+    {
+      "id": 18,
+      "word": "job",
+      "meaning": "A paid position of regular employment.",
+      "hindi": "नौकरी"
+    },
+    {
+      "id": 19,
+      "word": "word",
+      "meaning": "A single distinct meaningful element of speech or writing.",
+      "hindi": "शब्द"
+    },
+    {
+      "id": 20,
+      "word": "though",
+      "meaning": "Despite the fact that; although.",
+      "hindi": "यद्यपि"
+    },
+    {
+      "id": 21,
+      "word": "business",
+      "meaning": "A person's regular occupation, profession, or trade.",
+      "hindi": "व्यापार"
+    },
+    {
+      "id": 22,
+      "word": "issue",
+      "meaning": "An important topic or problem for debate or discussion.",
+      "hindi": "मुद्दा"
+    },
+    {
+      "id": 23,
+      "word": "side",
+      "meaning": "A position to the left or right of an object, place, or central point.",
+      "hindi": "पक्ष"
+    },
+    {
+      "id": 24,
+      "word": "kind",
+      "meaning": "A group of people or things having similar characteristics.",
+      "hindi": "प्रकार"
+    },
+    {
+      "id": 25,
+      "word": "four",
+      "meaning": "Equivalent to the sum of two and two.",
+      "hindi": "चार"
+    },
+    {
+      "id": 26,
+      "word": "head",
+      "meaning": "The upper part of the human body.",
+      "hindi": "सिर"
+    },
+    {
+      "id": 27,
+      "word": "far",
+      "meaning": "At, to, or by a great distance.",
+      "hindi": "दूर"
+    },
+    {
+      "id": 28,
+      "word": "black",
+      "meaning": "Of the very darkest color owing to the absence of or complete absorption of light.",
+      "hindi": "काला"
+    },
+    {
+      "id": 29,
+      "word": "long",
+      "meaning": "Measuring a great distance from end to end.",
+      "hindi": "लंबा"
+    },
+    {
+      "id": 30,
+      "word": "both",
+      "meaning": "Used to refer to two people or things, regarded and addressed together.",
+      "hindi": "दोनों"
+    },
+    {
+      "id": 31,
+      "word": "little",
+      "meaning": "Small in size, amount, or degree.",
+      "hindi": "छोटा"
+    },
+    {
+      "id": 32,
+      "word": "house",
+      "meaning": "A building for human habitation.",
+      "hindi": "घर"
+    },
+    {
+      "id": 33,
+      "word": "yes",
+      "meaning": "Used to give an affirmative response.",
+      "hindi": "हाँ"
+    },
+    {
+      "id": 34,
+      "word": "since",
+      "meaning": "In the intervening period between the time mentioned and the present.",
+      "hindi": "जब से"
+    },
+    {
+      "id": 35,
+      "word": "provide",
+      "meaning": "Make available for use; supply.",
+      "hindi": "प्रदान करना"
+    },
+    {
+      "id": 36,
+      "word": "service",
+      "meaning": "The action of helping or doing work for someone.",
+      "hindi": "सेवा"
+    },
+    {
+      "id": 37,
+      "word": "around",
+      "meaning": "Located or situated on every side.",
+      "hindi": "चारों ओर"
+    },
+    {
+      "id": 38,
+      "word": "friend",
+      "meaning": "A person whom one knows and with whom one has a bond of mutual affection.",
+      "hindi": "दोस्त"
+    },
+    {
+      "id": 39,
+      "word": "important",
+      "meaning": "Of great significance or value.",
+      "hindi": "जरूरी"
+    },
+    {
+      "id": 40,
+      "word": "father",
+      "meaning": "A male parent.",
+      "hindi": "पिता"
+    },
+    {
+      "id": 41,
+      "word": "sit",
+      "meaning": "Adopt or be in a position in which one's weight is supported by one's buttocks.",
+      "hindi": "बैठना"
+    },
+    {
+      "id": 42,
+      "word": "away",
+      "meaning": "To or at a distance from a particular place, person, or thing.",
+      "hindi": "दूर"
+    },
+    {
+      "id": 43,
+      "word": "power",
+      "meaning": "The ability or capacity to do something or act in a particular way.",
+      "hindi": "शक्ति"
+    },
+    {
+      "id": 44,
+      "word": "hour",
+      "meaning": "A period of time equal to a twenty-fourth part of a day and night.",
+      "hindi": "घंटा"
+    },
+    {
+      "id": 45,
+      "word": "game",
+      "meaning": "A form of play or sport, especially a competitive one.",
+      "hindi": "खेल"
+    },
+    {
+      "id": 46,
+      "word": "often",
+      "meaning": "Frequently; many times.",
+      "hindi": "अक्सर"
+    },
+    {
+      "id": 47,
+      "word": "yet",
+      "meaning": "Up until the present or a specified or implied time.",
+      "hindi": "फिर भी"
+    },
+    {
+      "id": 48,
+      "word": "line",
+      "meaning": "A long, narrow mark or band.",
+      "hindi": "रेखा"
+    },
+    {
+      "id": 49,
+      "word": "political",
+      "meaning": "Relating to the government or public affairs of a country.",
+      "hindi": "राजनीतिक"
+    },
+    {
+      "id": 50,
+      "word": "end",
+      "meaning": "A final part of something.",
+      "hindi": "अंत"
+    }
+  ],
+  "6": [
+    {
+      "id": 1,
+      "word": "among",
+      "meaning": "Situated in the middle of.",
+      "hindi": "के बीच"
+    },
+    {
+      "id": 2,
+      "word": "ever",
+      "meaning": "At any time.",
+      "hindi": "कभी"
+    },
+    {
+      "id": 3,
+      "word": "stand",
+      "meaning": "Have or maintain an upright position, supported by one's feet.",
+      "hindi": "खड़ा होना"
+    },
+    {
+      "id": 4,
+      "word": "bad",
+      "meaning": "Of poor quality or a low standard.",
+      "hindi": "बुरा"
+    },
+    {
+      "id": 5,
+      "word": "lose",
+      "meaning": "Be deprived of or cease to have or retain something.",
+      "hindi": "खोना"
+    },
+    {
+      "id": 6,
+      "word": "however",
+      "meaning": "Used to introduce a statement that contrasts with something that has just been said.",
+      "hindi": "हालांकि"
+    },
+    {
+      "id": 7,
+      "word": "member",
+      "meaning": "A person, animal, or plant belonging to a particular group.",
+      "hindi": "सदस्य"
+    },
+    {
+      "id": 8,
+      "word": "pay",
+      "meaning": "Give someone money that is due for work done, goods received, or a debt incurred.",
+      "hindi": "भुगतान करना"
+    },
+    {
+      "id": 9,
+      "word": "law",
+      "meaning": "The system of rules which a particular country or community recognizes.",
+      "hindi": "कानून"
+    },
+    {
+      "id": 10,
+      "word": "meet",
+      "meaning": "Arrange or happen to come into the presence or company of someone.",
+      "hindi": "मिलना"
+    },
+    {
+      "id": 11,
+      "word": "car",
+      "meaning": "A road vehicle, typically with four wheels, powered by an internal combustion engine.",
+      "hindi": "गाड़ी"
+    },
+    {
+      "id": 12,
+      "word": "city",
+      "meaning": "A large town.",
+      "hindi": "शहर"
+    },
+    {
+      "id": 13,
+      "word": "almost",
+      "meaning": "Not quite; very nearly.",
+      "hindi": "लगभग"
+    },
+    {
+      "id": 14,
+      "word": "include",
+      "meaning": "Comprise or contain as part of a whole.",
+      "hindi": "शामिल करना"
+    },
+    {
+      "id": 15,
+      "word": "continue",
+      "meaning": "Persist in an activity or process.",
+      "hindi": "जारी रखना"
+    },
+    {
+      "id": 16,
+      "word": "set",
+      "meaning": "Put, lay, or stand something in a specified place or position.",
+      "hindi": "स्थापित करना"
+    },
+    {
+      "id": 17,
+      "word": "later",
+      "meaning": "At a time in the near future; soon or afterward.",
+      "hindi": "बाद में"
+    },
+    {
+      "id": 18,
+      "word": "community",
+      "meaning": "A group of people living in the same place or having a particular characteristic in common.",
+      "hindi": "समुदाय"
+    },
+    {
+      "id": 19,
+      "word": "much",
+      "meaning": "A large amount.",
+      "hindi": "बहुत"
+    },
+    {
+      "id": 20,
+      "word": "name",
+      "meaning": "A word or set of words by which a person, animal, place, or thing is known.",
+      "hindi": "नाम"
+    },
+    {
+      "id": 21,
+      "word": "five",
+      "meaning": "Equivalent to the sum of two and three.",
+      "hindi": "पांच"
+    },
+    {
+      "id": 22,
+      "word": "once",
+      "meaning": "On one occasion or for one time only.",
+      "hindi": "एक बार"
+    },
+    {
+      "id": 23,
+      "word": "white",
+      "meaning": "Of the color of milk or fresh snow.",
+      "hindi": "सफेद"
+    },
+    {
+      "id": 24,
+      "word": "least",
+      "meaning": "Smallest in amount, extent, or significance.",
+      "hindi": "कम से कम"
+    },
+    {
+      "id": 25,
+      "word": "president",
+      "meaning": "The elected head of a republican state.",
+      "hindi": "राष्ट्रपति"
+    },
+    {
+      "id": 26,
+      "word": "learn",
+      "meaning": "Gain or acquire knowledge of or skill in something by study.",
+      "hindi": "सीखना"
+    },
+    {
+      "id": 27,
+      "word": "real",
+      "meaning": "Actually existing as a thing or occurring in fact.",
+      "hindi": "असली"
+    },
+    {
+      "id": 28,
+      "word": "change",
+      "meaning": "Make or become different.",
+      "hindi": "बदलना"
+    },
+    {
+      "id": 29,
+      "word": "team",
+      "meaning": "A group of players forming one side in a competitive game or sport.",
+      "hindi": "टीम"
+    },
+    {
+      "id": 30,
+      "word": "minute",
+      "meaning": "A period of time equal to sixty seconds.",
+      "hindi": "मिनट"
+    },
+    {
+      "id": 31,
+      "word": "best",
+      "meaning": "Of the most excellent, effective, or desirable type or quality.",
+      "hindi": "सबसे अच्छा"
+    },
+    {
+      "id": 32,
+      "word": "several",
+      "meaning": "More than two but not many.",
+      "hindi": "कई"
+    },
+    {
+      "id": 33,
+      "word": "idea",
+      "meaning": "A thought or suggestion as to a possible course of action.",
+      "hindi": "विचार"
+    },
+    {
+      "id": 34,
+      "word": "kid",
+      "meaning": "A child or young person.",
+      "hindi": "बच्चा"
+    },
+    {
+      "id": 35,
+      "word": "body",
+      "meaning": "The physical structure of a person or an animal.",
+      "hindi": "शरीर"
+    },
+    {
+      "id": 36,
+      "word": "information",
+      "meaning": "Facts provided or learned about something or someone.",
+      "hindi": "जानकारी"
+    },
+    {
+      "id": 37,
+      "word": "nothing",
+      "meaning": "Not anything; no single thing.",
+      "hindi": "कुछ नहीं"
+    },
+    {
+      "id": 38,
+      "word": "ago",
+      "meaning": "Before the present; earlier.",
+      "hindi": "पहले"
+    },
+    {
+      "id": 39,
+      "word": "lead",
+      "meaning": "Cause a person or animal to go with one by holding them by the hand or a rope.",
+      "hindi": "नेतृत्व करना"
+    },
+    {
+      "id": 40,
+      "word": "social",
+      "meaning": "Relating to society or its organization.",
+      "hindi": "सामाजिक"
+    },
+    {
+      "id": 41,
+      "word": "understand",
+      "meaning": "Perceive the intended meaning of words, a language, or a speaker.",
+      "hindi": "समझना"
+    },
+    {
+      "id": 42,
+      "word": "whether",
+      "meaning": "Expressing a doubt or choice between alternatives.",
+      "hindi": "क्या"
+    },
+    {
+      "id": 43,
+      "word": "watch",
+      "meaning": "Look at or observe attentively over a period of time.",
+      "hindi": "देखना"
+    },
+    {
+      "id": 44,
+      "word": "together",
+      "meaning": "With or in proximity to another person or people.",
+      "hindi": "एक साथ"
+    },
+    {
+      "id": 45,
+      "word": "follow",
+      "meaning": "Go or come after a person or thing preceding in time or space.",
+      "hindi": "पीछा करना"
+    },
+    {
+      "id": 46,
+      "word": "parent",
+      "meaning": "A father or mother.",
+      "hindi": "माता-पिता"
+    },
+    {
+      "id": 47,
+      "word": "stop",
+      "meaning": "Cause an action or activity to cease.",
+      "hindi": "रुकना"
+    },
+    {
+      "id": 48,
+      "word": "face",
+      "meaning": "The front part of a person's head from the forehead to the chin.",
+      "hindi": "चेहरा"
+    },
+    {
+      "id": 49,
+      "word": "anything",
+      "meaning": "A thing of any kind.",
+      "hindi": "कुछ भी"
+    },
+    {
+      "id": 50,
+      "word": "create",
+      "meaning": "Bring something into existence.",
+      "hindi": "बनाना"
+    }
+  ],
+  "7": [
+    {
+      "id": 1,
+      "word": "public",
+      "meaning": "Of or concerning the people as a whole.",
+      "hindi": "सार्वजनिक"
+    },
+    {
+      "id": 2,
+      "word": "already",
+      "meaning": "Before or by now or the time in question.",
+      "hindi": "पहले से"
+    },
+    {
+      "id": 3,
+      "word": "speak",
+      "meaning": "Say something in order to convey information or express a feeling.",
+      "hindi": "बोलना"
+    },
+    {
+      "id": 4,
+      "word": "others",
+      "meaning": "People other than oneself.",
+      "hindi": "दूसरों"
+    },
+    {
+      "id": 5,
+      "word": "read",
+      "meaning": "Look at and comprehend the meaning of written or printed matter.",
+      "hindi": "पढ़ना"
+    },
+    {
+      "id": 6,
+      "word": "level",
+      "meaning": "A position on a real or imaginary scale of amount, quantity, or quality.",
+      "hindi": "स्तर"
+    },
+    {
+      "id": 7,
+      "word": "allow",
+      "meaning": "Give the necessary time or opportunity for.",
+      "hindi": "अनुमति देना"
+    },
+    {
+      "id": 8,
+      "word": "add",
+      "meaning": "Join something to something else so as to increase the size, number, or amount.",
+      "hindi": "जोड़ना"
+    },
+    {
+      "id": 9,
+      "word": "office",
+      "meaning": "A room, set of rooms, or building used as a place for commercial or professional work.",
+      "hindi": "कार्यालय"
+    },
+    {
+      "id": 10,
+      "word": "spend",
+      "meaning": "Pay out money in buying or hiring goods or services.",
+      "hindi": "खर्च करना"
+    },
+    {
+      "id": 11,
+      "word": "door",
+      "meaning": "A hinged, sliding, or revolving barrier at the entrance to a building.",
+      "hindi": "दरवाजा"
+    },
+    {
+      "id": 12,
+      "word": "health",
+      "meaning": "The state of being free from illness or injury.",
+      "hindi": "स्वास्थ्य"
+    },
+    {
+      "id": 13,
+      "word": "personnel",
+      "meaning": "People employed in an organization or engaged in an organized undertaking.",
+      "hindi": "कर्मचारी"
+    },
+    {
+      "id": 14,
+      "word": "art",
+      "meaning": "The expression or application of human creative skill and imagination.",
+      "hindi": "कला"
+    },
+    {
+      "id": 15,
+      "word": "war",
+      "meaning": "A state of armed conflict between different nations or states.",
+      "hindi": "युद्ध"
+    },
+    {
+      "id": 16,
+      "word": "history",
+      "meaning": "The study of past events.",
+      "hindi": "इतिहास"
+    },
+    {
+      "id": 17,
+      "word": "party",
+      "meaning": "A social gathering of invited guests.",
+      "hindi": "पार्टी"
+    },
+    {
+      "id": 18,
+      "word": "within",
+      "meaning": "Inside a particular area or period of time.",
+      "hindi": "के भीतर"
+    },
+    {
+      "id": 19,
+      "word": "grow",
+      "meaning": "Undergo natural development by increasing in size and changing physically.",
+      "hindi": "बढ़ना"
+    },
+    {
+      "id": 20,
+      "word": "result",
+      "meaning": "A consequence, effect, or outcome of something.",
+      "hindi": "परिणाम"
+    },
+    {
+      "id": 21,
+      "word": "open",
+      "meaning": "Not closed or blocked up.",
+      "hindi": "खोलना"
+    },
+    {
+      "id": 22,
+      "word": "morning",
+      "meaning": "The period of time between midnight and noon.",
+      "hindi": "सुबह"
+    },
+    {
+      "id": 23,
+      "word": "walk",
+      "meaning": "Move at a regular pace by lifting and setting down each foot in turn.",
+      "hindi": "चलना"
+    },
+    {
+      "id": 24,
+      "word": "reason",
+      "meaning": "A cause, explanation, or justification for an action or event.",
+      "hindi": "कारण"
+    },
+    {
+      "id": 25,
+      "word": "low",
+      "meaning": "Of less than average height from top to bottom.",
+      "hindi": "कम"
+    },
+    {
+      "id": 26,
+      "word": "win",
+      "meaning": "Be successful or victorious in a contest or conflict.",
+      "hindi": "जीतना"
+    },
+    {
+      "id": 27,
+      "word": "research",
+      "meaning": "The systematic investigation into and study of materials and sources.",
+      "hindi": "अनुसंधान"
+    },
+    {
+      "id": 28,
+      "word": "girl",
+      "meaning": "A female child or young woman.",
+      "hindi": "लड़की"
+    },
+    {
+      "id": 29,
+      "word": "guy",
+      "meaning": "A man.",
+      "hindi": "आदमी"
+    },
+    {
+      "id": 30,
+      "word": "early",
+      "meaning": "Happening or done before the usual or expected time.",
+      "hindi": "जल्दी"
+    },
+    {
+      "id": 31,
+      "word": "food",
+      "meaning": "Any nutritious substance that people or animals eat or drink.",
+      "hindi": "भोजन"
+    },
+    {
+      "id": 32,
+      "word": "moment",
+      "meaning": "A very brief period of time.",
+      "hindi": "पल"
+    },
+    {
+      "id": 33,
+      "word": "himself",
+      "meaning": "Used as the object of a verb or preposition to refer to a male person.",
+      "hindi": "स्वयं"
+    },
+    {
+      "id": 34,
+      "word": "air",
+      "meaning": "The invisible gaseous substance surrounding the earth.",
+      "hindi": "हवा"
+    },
+    {
+      "id": 35,
+      "word": "teacher",
+      "meaning": "A person who teaches, especially in a school.",
+      "hindi": "शिक्षक"
+    },
+    {
+      "id": 36,
+      "word": "force",
+      "meaning": "Strength or energy as an attribute of physical action or movement.",
+      "hindi": "बल"
+    },
+    {
+      "id": 37,
+      "word": "offer",
+      "meaning": "Present or proffer something for someone to accept or reject.",
+      "hindi": "प्रस्ताव"
+    },
+    {
+      "id": 38,
+      "word": "enough",
+      "meaning": "As much or as many as is necessary or desirable.",
+      "hindi": "काफी"
+    },
+    {
+      "id": 39,
+      "word": "education",
+      "meaning": "The process of receiving or giving systematic instruction.",
+      "hindi": "शिक्षा"
+    },
+    {
+      "id": 40,
+      "word": "across",
+      "meaning": "From one side to the other of a place, area, etc.",
+      "hindi": "आर-पार"
+    },
+    {
+      "id": 41,
+      "word": "although",
+      "meaning": "In spite of the fact that; even though.",
+      "hindi": "हालांकि"
+    },
+    {
+      "id": 42,
+      "word": "remember",
+      "meaning": "Have in or be able to bring to one's mind an awareness of someone or something.",
+      "hindi": "याद करना"
+    },
+    {
+      "id": 43,
+      "word": "foot",
+      "meaning": "The part of the leg below the ankle.",
+      "hindi": "पैर"
+    },
+    {
+      "id": 44,
+      "word": "second",
+      "meaning": "Constituting number two in a sequence.",
+      "hindi": "दूसरा"
+    },
+    {
+      "id": 45,
+      "word": "boy",
+      "meaning": "A male child or young man.",
+      "hindi": "लड़का"
+    },
+    {
+      "id": 46,
+      "word": "maybe",
+      "meaning": "Perhaps; possibly.",
+      "hindi": "शायद"
+    },
+    {
+      "id": 47,
+      "word": "toward",
+      "meaning": "In the direction of.",
+      "hindi": "की ओर"
+    },
+    {
+      "id": 48,
+      "word": "able",
+      "meaning": "Having the power, skill, means, or opportunity to do something.",
+      "hindi": "सक्षम"
+    },
+    {
+      "id": 49,
+      "word": "age",
+      "meaning": "The length of time that a person has lived or a thing has existed.",
+      "hindi": "उम्र"
+    },
+    {
+      "id": 50,
+      "word": "policy",
+      "meaning": "A course or principle of action adopted or proposed by a government, party, business, or individual.",
+      "hindi": "नीति"
+    }
+  ],
+  "8": [
+    {
+      "id": 1,
+      "word": "everything",
+      "meaning": "All things.",
+      "hindi": "सब कुछ"
+    },
+    {
+      "id": 2,
+      "word": "love",
+      "meaning": "An intense feeling of deep affection.",
+      "hindi": "प्यार"
+    },
+    {
+      "id": 3,
+      "word": "process",
+      "meaning": "A series of actions or steps taken in order to achieve a particular end.",
+      "hindi": "प्रक्रिया"
+    },
+    {
+      "id": 4,
+      "word": "music",
+      "meaning": "Vocal or instrumental sounds combined in such a way as to produce beauty of form.",
+      "hindi": "संगीत"
+    },
+    {
+      "id": 5,
+      "word": "including",
+      "meaning": "Containing as part of the whole being considered.",
+      "hindi": "समेत"
+    },
+    {
+      "id": 6,
+      "word": "consider",
+      "meaning": "Think carefully about something.",
+      "hindi": "विचार करना"
+    },
+    {
+      "id": 7,
+      "word": "appear",
+      "meaning": "Come into sight; become visible or noticeable.",
+      "hindi": "दिखाई देना"
+    },
+    {
+      "id": 8,
+      "word": "actually",
+      "meaning": "As the truth or facts of a situation.",
+      "hindi": "वास्तव में"
+    },
+    {
+      "id": 9,
+      "word": "buy",
+      "meaning": "Obtain in exchange for payment.",
+      "hindi": "खरीदना"
+    },
+    {
+      "id": 10,
+      "word": "probably",
+      "meaning": "Almost certainly; as far as one knows or can tell.",
+      "hindi": "शायद"
+    },
+    {
+      "id": 11,
+      "word": "human",
+      "meaning": "Relating to or characteristic of people or human beings.",
+      "hindi": "मानव"
+    },
+    {
+      "id": 12,
+      "word": "wait",
+      "meaning": "Stay where one is or delay action until a particular time.",
+      "hindi": "इंतजार करना"
+    },
+    {
+      "id": 13,
+      "word": "serve",
+      "meaning": "Perform duties or services for another person or an organization.",
+      "hindi": "सेवा करना"
+    },
+    {
+      "id": 14,
+      "word": "market",
+      "meaning": "A regular gathering of people for the purchase and sale of provisions.",
+      "hindi": "बाजार"
+    },
+    {
+      "id": 15,
+      "word": "die",
+      "meaning": "Stop living.",
+      "hindi": "मरना"
+    },
+    {
+      "id": 16,
+      "word": "send",
+      "meaning": "Cause to go or be taken to a particular destination.",
+      "hindi": "भेजना"
+    },
+    {
+      "id": 17,
+      "word": "expect",
+      "meaning": "Regard something as likely to happen.",
+      "hindi": "उम्मीद करना"
+    },
+    {
+      "id": 18,
+      "word": "sense",
+      "meaning": "A faculty by which the body perceives an external stimulus.",
+      "hindi": "समझ"
+    },
+    {
+      "id": 19,
+      "word": "build",
+      "meaning": "Construct by putting parts or materials together.",
+      "hindi": "बनाना"
+    },
+    {
+      "id": 20,
+      "word": "stay",
+      "meaning": "Remain in the same place.",
+      "hindi": "रहना"
+    },
+    {
+      "id": 21,
+      "word": "fall",
+      "meaning": "Move downward, typically rapidly and freely without control.",
+      "hindi": "गिरना"
+    },
+    {
+      "id": 22,
+      "word": "oh",
+      "meaning": "Used to express a range of emotions including surprise, anger, or pain.",
+      "hindi": "ओह"
+    },
+    {
+      "id": 23,
+      "word": "nation",
+      "meaning": "A large body of people united by common descent, history, culture, or language.",
+      "hindi": "राष्ट्र"
+    },
+    {
+      "id": 24,
+      "word": "plan",
+      "meaning": "A detailed proposal for doing or achieving something.",
+      "hindi": "योजना"
+    },
+    {
+      "id": 25,
+      "word": "cut",
+      "meaning": "Make an opening, incision, or wound in something with a sharp-edged tool.",
+      "hindi": "काटना"
+    },
+    {
+      "id": 26,
+      "word": "college",
+      "meaning": "An educational institution or establishment.",
+      "hindi": "महाविद्यालय"
+    },
+    {
+      "id": 27,
+      "word": "interest",
+      "meaning": "The feeling of wanting to know or learn about something or someone.",
+      "hindi": "रुचि"
+    },
+    {
+      "id": 28,
+      "word": "death",
+      "meaning": "The action or fact of dying or being killed.",
+      "hindi": "मृत्यु"
+    },
+    {
+      "id": 29,
+      "word": "course",
+      "meaning": "The route or direction followed by a ship, aircraft, road, or river.",
+      "hindi": "कोर्स"
+    },
+    {
+      "id": 30,
+      "word": "someone",
+      "meaning": "An unknown or unspecified person.",
+      "hindi": "कोई"
+    },
+    {
+      "id": 31,
+      "word": "experience",
+      "meaning": "Practical contact with and observation of facts or events.",
+      "hindi": "अनुभव"
+    },
+    {
+      "id": 32,
+      "word": "behind",
+      "meaning": "At or to the far side of something.",
+      "hindi": "पीछे"
+    },
+    {
+      "id": 33,
+      "word": "reach",
+      "meaning": "Stretch out an arm in a specified direction in order to touch or grasp something.",
+      "hindi": "पहुंचना"
+    },
+    {
+      "id": 34,
+      "word": "local",
+      "meaning": "Relating or restricted to a particular area or neighborhood.",
+      "hindi": "स्थानीय"
+    },
+    {
+      "id": 35,
+      "word": "kill",
+      "meaning": "Cause the death of a person, animal, or other living thing.",
+      "hindi": "मारना"
+    },
+    {
+      "id": 36,
+      "word": "six",
+      "meaning": "Equivalent to the sum of three and three.",
+      "hindi": "छह"
+    },
+    {
+      "id": 37,
+      "word": "remain",
+      "meaning": "Continue to exist, especially after other similar or related people or things have ceased to exist.",
+      "hindi": "रहना"
+    },
+    {
+      "id": 38,
+      "word": "effect",
+      "meaning": "A change which is a consequence or result of an action or other cause.",
+      "hindi": "प्रभाव"
+    },
+    {
+      "id": 39,
+      "word": "yeah",
+      "meaning": "Nonstandard spelling of yes, representing a colloquial pronunciation.",
+      "hindi": "हाँ"
+    },
+    {
+      "id": 40,
+      "word": "suggest",
+      "meaning": "Put forward for consideration.",
+      "hindi": "सुझाव देना"
+    },
+    {
+      "id": 41,
+      "word": "class",
+      "meaning": "A set or category of things having some property or attribute in common.",
+      "hindi": "कक्षा"
+    },
+    {
+      "id": 42,
+      "word": "control",
+      "meaning": "The power to influence or direct people's behavior or the course of events.",
+      "hindi": "नियंत्रण"
+    },
+    {
+      "id": 43,
+      "word": "raise",
+      "meaning": "Lift or move to a higher position or level.",
+      "hindi": "उठाना"
+    },
+    {
+      "id": 44,
+      "word": "care",
+      "meaning": "The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.",
+      "hindi": "देखभाल"
+    },
+    {
+      "id": 45,
+      "word": "perhaps",
+      "meaning": "Used to express uncertainty or possibility.",
+      "hindi": "शायद"
+    },
+    {
+      "id": 46,
+      "word": "late",
+      "meaning": "Doing something or taking place after the expected, proper, or usual time.",
+      "hindi": "देर"
+    },
+    {
+      "id": 47,
+      "word": "hard",
+      "meaning": "Solid, firm, and rigid; not easily broken, bent, or pierced.",
+      "hindi": "कठिन"
+    },
+    {
+      "id": 48,
+      "word": "field",
+      "meaning": "An area of open land, especially one planted with crops or pasture.",
+      "hindi": "खेत"
+    },
+    {
+      "id": 49,
+      "word": "else",
+      "meaning": "In addition; besides.",
+      "hindi": "अन्य"
+    },
+    {
+      "id": 50,
+      "word": "pass",
+      "meaning": "Move or cause to move in a specified direction.",
+      "hindi": "गुजरना"
+    }
+  ],
+  "9": [
+    {
+      "id": 1,
+      "word": "former",
+      "meaning": "Having previously been a particular thing.",
+      "hindi": "भूतपूर्व"
+    },
+    {
+      "id": 2,
+      "word": "sell",
+      "meaning": "Give or hand over something in exchange for money.",
+      "hindi": "बेचना"
+    },
+    {
+      "id": 3,
+      "word": "major",
+      "meaning": "Important, serious, or significant.",
+      "hindi": "प्रमुख"
+    },
+    {
+      "id": 4,
+      "word": "sometimes",
+      "meaning": "Occasionally, rather than all of the time.",
+      "hindi": "कभी-कभी"
+    },
+    {
+      "id": 5,
+      "word": "require",
+      "meaning": "Need for a particular purpose.",
+      "hindi": "आवश्यकता होना"
+    },
+    {
+      "id": 6,
+      "word": "along",
+      "meaning": "Moving in a constant direction on a road, path, or river.",
+      "hindi": "साथ में"
+    },
+    {
+      "id": 7,
+      "word": "development",
+      "meaning": "The process of developing or being developed.",
+      "hindi": "विकास"
+    },
+    {
+      "id": 8,
+      "word": "themselves",
+      "meaning": "Used as the object of a verb or preposition to refer to a group of people or things previously mentioned.",
+      "hindi": "खुद"
+    },
+    {
+      "id": 9,
+      "word": "report",
+      "meaning": "Give a spoken or written account of something that one has observed.",
+      "hindi": "रिपोर्ट"
+    },
+    {
+      "id": 10,
+      "word": "role",
+      "meaning": "An actor's part in a play, movie, etc.",
+      "hindi": "भूमिका"
+    },
+    {
+      "id": 11,
+      "word": "better",
+      "meaning": "Of a more excellent or effective type or quality.",
+      "hindi": "बेहतर"
+    },
+    {
+      "id": 12,
+      "word": "economic",
+      "meaning": "Relating to economics or the economy.",
+      "hindi": "आर्थिक"
+    },
+    {
+      "id": 13,
+      "word": "effort",
+      "meaning": "A vigorous or determined attempt.",
+      "hindi": "प्रयास"
+    },
+    {
+      "id": 14,
+      "word": "up",
+      "meaning": "Toward a higher place or position.",
+      "hindi": "ऊपर"
+    },
+    {
+      "id": 15,
+      "word": "decide",
+      "meaning": "Come to a resolution in the mind as a result of consideration.",
+      "hindi": "तय करना"
+    },
+    {
+      "id": 16,
+      "word": "rate",
+      "meaning": "A measure, quantity, or frequency, typically one measured against some other quantity or measure.",
+      "hindi": "दर"
+    },
+    {
+      "id": 17,
+      "word": "strong",
+      "meaning": "Having the power to move heavy weights or perform other physically demanding tasks.",
+      "hindi": "मजबूत"
+    },
+    {
+      "id": 18,
+      "word": "possible",
+      "meaning": "Able to be done or achieved.",
+      "hindi": "संभव"
+    },
+    {
+      "id": 19,
+      "word": "heart",
+      "meaning": "A hollow muscular organ that pumps the blood through the circulatory system.",
+      "hindi": "दिल"
+    },
+    {
+      "id": 20,
+      "word": "drug",
+      "meaning": "A medicine or other substance which has a physiological effect when ingested.",
+      "hindi": "दवा"
+    },
+    {
+      "id": 21,
+      "word": "show",
+      "meaning": "A spectacle or display of something, typically an impressive one.",
+      "hindi": "प्रदर्शन"
+    },
+    {
+      "id": 22,
+      "word": "leader",
+      "meaning": "The person who leads or commands a group, organization, or country.",
+      "hindi": "नेता"
+    },
+    {
+      "id": 23,
+      "word": "light",
+      "meaning": "The natural agent that stimulates sight and makes things visible.",
+      "hindi": "रोशनी"
+    },
+    {
+      "id": 24,
+      "word": "voice",
+      "meaning": "The sound produced in a person's larynx and uttered through the mouth.",
+      "hindi": "आवाज"
+    },
+    {
+      "id": 25,
+      "word": "wife",
+      "meaning": "A married woman considered in relation to her spouse.",
+      "hindi": "पत्नी"
+    },
+    {
+      "id": 26,
+      "word": "whole",
+      "meaning": "All of; entire.",
+      "hindi": "पूरा"
+    },
+    {
+      "id": 27,
+      "word": "police",
+      "meaning": "The civil force of a state, responsible for the prevention and detection of crime.",
+      "hindi": "पुलिस"
+    },
+    {
+      "id": 28,
+      "word": "mind",
+      "meaning": "The element of a person that enables them to be aware of the world and their experiences.",
+      "hindi": "मन"
+    },
+    {
+      "id": 29,
+      "word": "finally",
+      "meaning": "After a long time, typically when there has been difficulty or delay.",
+      "hindi": "अंत में"
+    },
+    {
+      "id": 30,
+      "word": "pull",
+      "meaning": "Exert force on someone or something so as to cause movement toward oneself.",
+      "hindi": "खींचना"
+    },
+    {
+      "id": 31,
+      "word": "return",
+      "meaning": "Come or go back to a place or person.",
+      "hindi": "वापस आना"
+    },
+    {
+      "id": 32,
+      "word": "free",
+      "meaning": "Able to act or be done as one wishes; not under the control of another.",
+      "hindi": "मुक्त"
+    },
+    {
+      "id": 33,
+      "word": "military",
+      "meaning": "Relating to or characteristic of soldiers or armed forces.",
+      "hindi": "सैन्य"
+    },
+    {
+      "id": 34,
+      "word": "price",
+      "meaning": "The amount of money expected, required, or given in payment for something.",
+      "hindi": "कीमत"
+    },
+    {
+      "id": 35,
+      "word": "report",
+      "meaning": "An account given of a particular matter.",
+      "hindi": "विवरण"
+    },
+    {
+      "id": 36,
+      "word": "less",
+      "meaning": "A smaller amount of; not as much.",
+      "hindi": "कम"
+    },
+    {
+      "id": 37,
+      "word": "according",
+      "meaning": "As stated by or in.",
+      "hindi": "के अनुसार"
+    },
+    {
+      "id": 38,
+      "word": "decision",
+      "meaning": "A conclusion or resolution reached after consideration.",
+      "hindi": "निर्णय"
+    },
+    {
+      "id": 39,
+      "word": "explain",
+      "meaning": "Make an idea, situation, or problem clear to someone.",
+      "hindi": "समझाना"
+    },
+    {
+      "id": 40,
+      "word": "son",
+      "meaning": "A boy or man in relation to either of his parents.",
+      "hindi": "बेटा"
+    },
+    {
+      "id": 41,
+      "word": "hope",
+      "meaning": "A feeling of expectation and desire for a certain thing to happen.",
+      "hindi": "आशा"
+    },
+    {
+      "id": 42,
+      "word": "even",
+      "meaning": "Flat and smooth.",
+      "hindi": "सम"
+    },
+    {
+      "id": 43,
+      "word": "develop",
+      "meaning": "Grow or cause to grow and become more mature, advanced, or elaborate.",
+      "hindi": "विकसित करना"
+    },
+    {
+      "id": 44,
+      "word": "view",
+      "meaning": "The ability to see something or to be seen from a particular place.",
+      "hindi": "दृश्य"
+    },
+    {
+      "id": 45,
+      "word": "relationship",
+      "meaning": "The way in which two or more concepts, objects, or people are connected.",
+      "hindi": "रिश्ता"
+    },
+    {
+      "id": 46,
+      "word": "carry",
+      "meaning": "Support and move someone or something from one place to another.",
+      "hindi": "ले जाना"
+    },
+    {
+      "id": 47,
+      "word": "town",
+      "meaning": "A built-up area with a name, defined boundaries, and local government.",
+      "hindi": "कस्बा"
+    },
+    {
+      "id": 48,
+      "word": "road",
+      "meaning": "A wide way leading from one place to another, especially one with a specially prepared surface.",
+      "hindi": "सड़क"
+    },
+    {
+      "id": 49,
+      "word": "drive",
+      "meaning": "Operate and control the direction and speed of a motor vehicle.",
+      "hindi": "चलाना"
+    },
+    {
+      "id": 50,
+      "word": "arm",
+      "meaning": "Each of the two upper limbs of the human body.",
+      "hindi": "बांह"
+    }
+  ],
+  "10": [
+    {
+      "id": 1,
+      "word": "true",
+      "meaning": "In accordance with fact or reality.",
+      "hindi": "सच"
+    },
+    {
+      "id": 2,
+      "word": "federal",
+      "meaning": "Relating to a system of government in which several states form a unity but remain independent.",
+      "hindi": "संघीय"
+    },
+    {
+      "id": 3,
+      "word": "break",
+      "meaning": "Separate into pieces as a result of a blow, shock, or strain.",
+      "hindi": "तोड़ना"
+    },
+    {
+      "id": 4,
+      "word": "difference",
+      "meaning": "A point or way in which people or things are not the same.",
+      "hindi": "अंतर"
+    },
+    {
+      "id": 5,
+      "word": "thank",
+      "meaning": "Express gratitude to someone.",
+      "hindi": "धन्यवाद"
+    },
+    {
+      "id": 6,
+      "word": "receive",
+      "meaning": "Be given, presented with, or paid something.",
+      "hindi": "प्राप्त करना"
+    },
+    {
+      "id": 7,
+      "word": "value",
+      "meaning": "The regard that something is held to deserve.",
+      "hindi": "मूल्य"
+    },
+    {
+      "id": 8,
+      "word": "international",
+      "meaning": "Existing, occurring, or carried on between two or more nations.",
+      "hindi": "अंतर्राष्ट्रीय"
+    },
+    {
+      "id": 9,
+      "word": "building",
+      "meaning": "A structure with a roof and walls.",
+      "hindi": "इमारत"
+    },
+    {
+      "id": 10,
+      "word": "action",
+      "meaning": "The fact or process of doing something.",
+      "hindi": "कार्य"
+    },
+    {
+      "id": 11,
+      "word": "full",
+      "meaning": "Containing or holding as much or as many as possible.",
+      "hindi": "पूर्ण"
+    },
+    {
+      "id": 12,
+      "word": "model",
+      "meaning": "A three-dimensional representation of a person or thing.",
+      "hindi": "नमूना"
+    },
+    {
+      "id": 13,
+      "word": "join",
+      "meaning": "Link; connect.",
+      "hindi": "जुड़ना"
+    },
+    {
+      "id": 14,
+      "word": "season",
+      "meaning": "Each of the four divisions of the year (spring, summer, autumn, and winter).",
+      "hindi": "मौसम"
+    },
+    {
+      "id": 15,
+      "word": "society",
+      "meaning": "The aggregate of people living together in a more or less ordered community.",
+      "hindi": "समाज"
+    },
+    {
+      "id": 16,
+      "word": "because",
+      "meaning": "For the reason that; since.",
+      "hindi": "क्योंकि"
+    },
+    {
+      "id": 17,
+      "word": "tax",
+      "meaning": "A compulsory contribution to state revenue.",
+      "hindi": "कर"
+    },
+    {
+      "id": 18,
+      "word": "director",
+      "meaning": "A person who is in charge of an activity, department, or organization.",
+      "hindi": "निदेशक"
+    },
+    {
+      "id": 19,
+      "word": "position",
+      "meaning": "A place where someone or something is located or has been put.",
+      "hindi": "पद"
+    },
+    {
+      "id": 20,
+      "word": "player",
+      "meaning": "A person taking part in a sport or game.",
+      "hindi": "खिलाड़ी"
+    },
+    {
+      "id": 21,
+      "word": "agree",
+      "meaning": "Have the same opinion about something; concur.",
+      "hindi": "सहमत होना"
+    },
+    {
+      "id": 22,
+      "word": "especially",
+      "meaning": "Used to single out one person, thing, or situation over all others.",
+      "hindi": "विशेष रूप से"
+    },
+    {
+      "id": 23,
+      "word": "record",
+      "meaning": "A thing constituting a piece of evidence about the past.",
+      "hindi": "अभिलेख"
+    },
+    {
+      "id": 24,
+      "word": "pick",
+      "meaning": "Take hold of and remove a flower, fruit, or vegetable from where it is growing.",
+      "hindi": "चुनना"
+    },
+    {
+      "id": 25,
+      "word": "wear",
+      "meaning": "Have on one's body or a part of one's body as clothing, decoration, or protection.",
+      "hindi": "पहनना"
+    },
+    {
+      "id": 26,
+      "word": "paper",
+      "meaning": "Material manufactured in thin sheets from the pulp of wood or other fibrous substances.",
+      "hindi": "कागज"
+    },
+    {
+      "id": 27,
+      "word": "special",
+      "meaning": "Better, greater, or otherwise different from what is usual.",
+      "hindi": "विशेष"
+    },
+    {
+      "id": 28,
+      "word": "space",
+      "meaning": "A continuous area or expanse which is free, available, or unoccupied.",
+      "hindi": "अंतरिक्ष"
+    },
+    {
+      "id": 29,
+      "word": "ground",
+      "meaning": "The solid surface of the earth.",
+      "hindi": "भूमि"
+    },
+    {
+      "id": 30,
+      "word": "form",
+      "meaning": "The visible shape or configuration of something.",
+      "hindi": "प्रपत्र"
+    },
+    {
+      "id": 31,
+      "word": "support",
+      "meaning": "Bear all or part of the weight of; hold up.",
+      "hindi": "समर्थन"
+    },
+    {
+      "id": 32,
+      "word": "event",
+      "meaning": "A thing that happens, especially one of importance.",
+      "hindi": "घटना"
+    },
+    {
+      "id": 33,
+      "word": "official",
+      "meaning": "Relating to an authority or public body and its duties.",
+      "hindi": "अधिकारी"
+    },
+    {
+      "id": 34,
+      "word": "whose",
+      "meaning": "Belonging to or associated with which person.",
+      "hindi": "जिसका"
+    },
+    {
+      "id": 35,
+      "word": "matter",
+      "meaning": "Physical substance in general.",
+      "hindi": "मामला"
+    },
+    {
+      "id": 36,
+      "word": "everyone",
+      "meaning": "Every person.",
+      "hindi": "हर कोई"
+    },
+    {
+      "id": 37,
+      "word": "center",
+      "meaning": "The middle point of a circle or sphere.",
+      "hindi": "केंद्र"
+    },
+    {
+      "id": 38,
+      "word": "couple",
+      "meaning": "Two people or things of the same sort considered together.",
+      "hindi": "जोड़ा"
+    },
+    {
+      "id": 39,
+      "word": "site",
+      "meaning": "An area of ground on which a town, building, or monument is constructed.",
+      "hindi": "स्थल"
+    },
+    {
+      "id": 40,
+      "word": "project",
+      "meaning": "An individual or collaborative enterprise that is carefully planned to achieve a particular aim.",
+      "hindi": "परियोजना"
+    },
+    {
+      "id": 41,
+      "word": "hit",
+      "meaning": "Bring one's hand or a tool or weapon into contact with someone or something quickly and forcefully.",
+      "hindi": "मारना"
+    },
+    {
+      "id": 42,
+      "word": "base",
+      "meaning": "The lowest part or edge of something.",
+      "hindi": "आधार"
+    },
+    {
+      "id": 43,
+      "word": "activity",
+      "meaning": "The condition in which things are happening or being done.",
+      "hindi": "गतिविधि"
+    },
+    {
+      "id": 44,
+      "word": "star",
+      "meaning": "A fixed luminous point in the night sky which is a large, remote incandescent body like the sun.",
+      "hindi": "तारा"
+    },
+    {
+      "id": 45,
+      "word": "table",
+      "meaning": "A piece of furniture with a flat top and one or more legs.",
+      "hindi": "मेज़"
+    },
+    {
+      "id": 46,
+      "word": "need",
+      "meaning": "Require something because it is essential or very important.",
+      "hindi": "आवश्यकता"
+    },
+    {
+      "id": 47,
+      "word": "court",
+      "meaning": "A body of people presided over by a judge, judges, or magistrate.",
+      "hindi": "न्यायालय"
+    },
+    {
+      "id": 48,
+      "word": "produce",
+      "meaning": "Make or manufacture from components or raw materials.",
+      "hindi": "उत्पादन करना"
+    },
+    {
+      "id": 49,
+      "word": "eat",
+      "meaning": "Put food into the mouth and chew and swallow it.",
+      "hindi": "खाना"
+    },
+    {
+      "id": 50,
+      "word": "American",
+      "meaning": "Relating to or characteristic of the United States.",
+      "hindi": "अमेरिकी"
+    }
+  ],
+  "11": [
+    {
+      "id": 1,
+      "word": "teach",
+      "meaning": "To impart knowledge to or instruct someone.",
+      "hindi": "सिखाना"
+    },
+    {
+      "id": 2,
+      "word": "oil",
+      "meaning": "A viscous liquid derived from petroleum, used as a fuel or lubricant.",
+      "hindi": "तेल"
+    },
+    {
+      "id": 3,
+      "word": "half",
+      "meaning": "Either of two equal or corresponding parts into which something is or can be divided.",
+      "hindi": "आधा"
+    },
+    {
+      "id": 4,
+      "word": "situation",
+      "meaning": "A set of circumstances in which one finds oneself.",
+      "hindi": "परिस्थिति"
+    },
+    {
+      "id": 5,
+      "word": "easy",
+      "meaning": "Achieved without great effort; presenting few difficulties.",
+      "hindi": "आसान"
+    },
+    {
+      "id": 6,
+      "word": "cost",
+      "meaning": "An amount that has to be paid or spent to buy or obtain something.",
+      "hindi": "लागत"
+    },
+    {
+      "id": 7,
+      "word": "industry",
+      "meaning": "Economic activity concerned with the processing of raw materials and manufacture of goods.",
+      "hindi": "उद्योग"
+    },
+    {
+      "id": 8,
+      "word": "figure",
+      "meaning": "A number, especially one that forms part of official statistics.",
+      "hindi": "आंकड़ा"
+    },
+    {
+      "id": 9,
+      "word": "face",
+      "meaning": "Confront and deal with or accept a difficult or unpleasant task or situation.",
+      "hindi": "सामना करना"
+    },
+    {
+      "id": 10,
+      "word": "street",
+      "meaning": "A public road in a city or town, typically with houses and buildings on one or both sides.",
+      "hindi": "गली"
+    },
+    {
+      "id": 11,
+      "word": "image",
+      "meaning": "A representation of the external form of a person or thing in art.",
+      "hindi": "छवि"
+    },
+    {
+      "id": 12,
+      "word": "itself",
+      "meaning": "Used to emphasize a particular thing or animal mentioned.",
+      "hindi": "अपने आप"
+    },
+    {
+      "id": 13,
+      "word": "phone",
+      "meaning": "A telephone.",
+      "hindi": "फ़ोन"
+    },
+    {
+      "id": 14,
+      "word": "either",
+      "meaning": "Used before the first of two given alternatives.",
+      "hindi": "या तो"
+    },
+    {
+      "id": 15,
+      "word": "data",
+      "meaning": "Facts and statistics collected together for reference or analysis.",
+      "hindi": "आंकड़े"
+    },
+    {
+      "id": 16,
+      "word": "cover",
+      "meaning": "Put something on top of or in front of something else, especially to protect it.",
+      "hindi": "ढकना"
+    },
+    {
+      "id": 17,
+      "word": "quite",
+      "meaning": "To the utmost or most absolute extent or degree.",
+      "hindi": "काफी"
+    },
+    {
+      "id": 18,
+      "word": "picture",
+      "meaning": "A painting or drawing.",
+      "hindi": "चित्र"
+    },
+    {
+      "id": 19,
+      "word": "clear",
+      "meaning": "Easy to perceive, understand, or interpret.",
+      "hindi": "स्पष्ट"
+    },
+    {
+      "id": 20,
+      "word": "practice",
+      "meaning": "The actual application or use of an idea, belief, or method.",
+      "hindi": "अभ्यास"
+    },
+    {
+      "id": 21,
+      "word": "piece",
+      "meaning": "A part or portion of something.",
+      "hindi": "टुकड़ा"
+    },
+    {
+      "id": 22,
+      "word": "land",
+      "meaning": "The part of the earth's surface that is not covered by water.",
+      "hindi": "भूमि"
+    },
+    {
+      "id": 23,
+      "word": "recent",
+      "meaning": "Having happened, begun, or been done not long ago.",
+      "hindi": "हाल का"
+    },
+    {
+      "id": 24,
+      "word": "describe",
+      "meaning": "Give a detailed account in words of.",
+      "hindi": "वर्णन करना"
+    },
+    {
+      "id": 25,
+      "word": "product",
+      "meaning": "An article or substance that is manufactured or refined for sale.",
+      "hindi": "उत्पाद"
+    },
+    {
+      "id": 26,
+      "word": "doctor",
+      "meaning": "A qualified practitioner of medicine.",
+      "hindi": "चिकित्सक"
+    },
+    {
+      "id": 27,
+      "word": "wall",
+      "meaning": "A continuous vertical brick or stone structure that encloses an area.",
+      "hindi": "दीवार"
+    },
+    {
+      "id": 28,
+      "word": "patient",
+      "meaning": "A person receiving or registered to receive medical treatment.",
+      "hindi": "मरीज़"
+    },
+    {
+      "id": 29,
+      "word": "worker",
+      "meaning": "A person who does a specified type of work or who works in a specified way.",
+      "hindi": "कार्यकर्ता"
+    },
+    {
+      "id": 30,
+      "word": "news",
+      "meaning": "Newly received or noteworthy information.",
+      "hindi": "समाचार"
+    },
+    {
+      "id": 31,
+      "word": "test",
+      "meaning": "A procedure intended to establish the quality, performance, or reliability of something.",
+      "hindi": "परीक्षा"
+    },
+    {
+      "id": 32,
+      "word": "movie",
+      "meaning": "A story or event recorded by a camera as a set of moving images.",
+      "hindi": "फ़िल्म"
+    },
+    {
+      "id": 33,
+      "word": "certain",
+      "meaning": "Known for sure; established beyond doubt.",
+      "hindi": "निश्चित"
+    },
+    {
+      "id": 34,
+      "word": "north",
+      "meaning": "The direction in which a compass needle normally points.",
+      "hindi": "उत्तर"
+    },
+    {
+      "id": 35,
+      "word": "love",
+      "meaning": "To feel deep affection for someone.",
+      "hindi": "प्यार करना"
+    },
+    {
+      "id": 36,
+      "word": "personal",
+      "meaning": "Of, affecting, or belonging to a particular person rather than to anyone else.",
+      "hindi": "व्यक्तिगत"
+    },
+    {
+      "id": 37,
+      "word": "open",
+      "meaning": "Allowing access, passage, or a view through an empty space.",
+      "hindi": "खुला"
+    },
+    {
+      "id": 38,
+      "word": "support",
+      "meaning": "To bear all or part of the weight of; hold up.",
+      "hindi": "सहारा देना"
+    },
+    {
+      "id": 39,
+      "word": "simply",
+      "meaning": "In a straightforward or plain manner.",
+      "hindi": "बस"
+    },
+    {
+      "id": 40,
+      "word": "third",
+      "meaning": "Constituting number three in a sequence.",
+      "hindi": "तीसरा"
+    },
+    {
+      "id": 41,
+      "word": "technology",
+      "meaning": "The application of scientific knowledge for practical purposes.",
+      "hindi": "प्रौद्योगिकी"
+    },
+    {
+      "id": 42,
+      "word": "catch",
+      "meaning": "Intercept and hold something which has been thrown, propelled, or dropped.",
+      "hindi": "पकड़ना"
+    },
+    {
+      "id": 43,
+      "word": "step",
+      "meaning": "An act or movement of putting one foot in front of the other in walking or running.",
+      "hindi": "कदम"
+    },
+    {
+      "id": 44,
+      "word": "baby",
+      "meaning": "A very young child, especially one newly born or in infancy.",
+      "hindi": "बच्चा"
+    },
+    {
+      "id": 45,
+      "word": "computer",
+      "meaning": "An electronic device for storing and processing data.",
+      "hindi": "कंप्यूटर"
+    },
+    {
+      "id": 46,
+      "word": "type",
+      "meaning": "A category of people or things having common characteristics.",
+      "hindi": "प्रकार"
+    },
+    {
+      "id": 47,
+      "word": "attention",
+      "meaning": "Notice taken of someone or something.",
+      "hindi": "ध्यान"
+    },
+    {
+      "id": 48,
+      "word": "draw",
+      "meaning": "Produce a picture or diagram by making lines and marks on paper.",
+      "hindi": "खींचना"
+    },
+    {
+      "id": 49,
+      "word": "film",
+      "meaning": "A thin flexible strip of plastic or other material coated with light-sensitive emulsion.",
+      "hindi": "फ़िल्म"
+    },
+    {
+      "id": 50,
+      "word": "Republican",
+      "meaning": "Belonging to or characteristic of a republic.",
+      "hindi": "रिपब्लिकन"
+    }
+  ],
+  "12": [
+    {
+      "id": 1,
+      "word": "tree",
+      "meaning": "A woody perennial plant, typically having a single stem or trunk.",
+      "hindi": "पेड़"
+    },
+    {
+      "id": 2,
+      "word": "source",
+      "meaning": "A place, person, or thing from which something comes or can be obtained.",
+      "hindi": "स्रोत"
+    },
+    {
+      "id": 3,
+      "word": "red",
+      "meaning": "Of a color at the end of the spectrum next to orange and opposite violet.",
+      "hindi": "लाल"
+    },
+    {
+      "id": 4,
+      "word": "nearly",
+      "meaning": "Almost.",
+      "hindi": "लगभग"
+    },
+    {
+      "id": 5,
+      "word": "organization",
+      "meaning": "An organized body of people with a particular purpose.",
+      "hindi": "संगठन"
+    },
+    {
+      "id": 6,
+      "word": "choose",
+      "meaning": "Pick out or select someone or something as being the best or most appropriate.",
+      "hindi": "चुनना"
+    },
+    {
+      "id": 7,
+      "word": "cause",
+      "meaning": "A person or thing that gives rise to an action, phenomenon, or condition.",
+      "hindi": "कारण"
+    },
+    {
+      "id": 8,
+      "word": "hair",
+      "meaning": "Any of the fine threadlike strands growing from the skin of humans, mammals, and some other animals.",
+      "hindi": "बाल"
+    },
+    {
+      "id": 9,
+      "word": "look",
+      "meaning": "An act of directing one's gaze in order to see someone or something.",
+      "hindi": "नज़र"
+    },
+    {
+      "id": 10,
+      "word": "point",
+      "meaning": "To direct someone's attention to something by extending one's finger.",
+      "hindi": "इशारा करना"
+    },
+    {
+      "id": 11,
+      "word": "century",
+      "meaning": "A period of one hundred years.",
+      "hindi": "सदी"
+    },
+    {
+      "id": 12,
+      "word": "evidence",
+      "meaning": "The available body of facts or information indicating whether a belief is true.",
+      "hindi": "सबूत"
+    },
+    {
+      "id": 13,
+      "word": "window",
+      "meaning": "An opening in the wall or roof of a building or vehicle.",
+      "hindi": "खिड़की"
+    },
+    {
+      "id": 14,
+      "word": "difficult",
+      "meaning": "Needing much effort or skill to accomplish, deal with, or understand.",
+      "hindi": "कठिन"
+    },
+    {
+      "id": 15,
+      "word": "listen",
+      "meaning": "Give one's attention to a sound.",
+      "hindi": "सुनना"
+    },
+    {
+      "id": 16,
+      "word": "soon",
+      "meaning": "In or after a short time.",
+      "hindi": "जल्द"
+    },
+    {
+      "id": 17,
+      "word": "culture",
+      "meaning": "The arts and other manifestations of human intellectual achievement regarded collectively.",
+      "hindi": "संस्कृति"
+    },
+    {
+      "id": 18,
+      "word": "billion",
+      "meaning": "The number equivalent to a thousand million.",
+      "hindi": "एक अरब"
+    },
+    {
+      "id": 19,
+      "word": "chance",
+      "meaning": "A possibility of something happening.",
+      "hindi": "मौका"
+    },
+    {
+      "id": 20,
+      "word": "brother",
+      "meaning": "A man or boy with one or more parents in common with another person.",
+      "hindi": "भाई"
+    },
+    {
+      "id": 21,
+      "word": "energy",
+      "meaning": "The strength and vitality required for sustained physical or mental activity.",
+      "hindi": "ऊर्जा"
+    },
+    {
+      "id": 22,
+      "word": "period",
+      "meaning": "A length or portion of time.",
+      "hindi": "अवधि"
+    },
+    {
+      "id": 23,
+      "word": "course",
+      "meaning": "A dish, or a set of dishes served together, forming one of the successive parts of a meal.",
+      "hindi": "भोजन-विधि"
+    },
+    {
+      "id": 24,
+      "word": "summer",
+      "meaning": "The warmest season of the year, in the northern hemisphere from June to August.",
+      "hindi": "गर्मी"
+    },
+    {
+      "id": 25,
+      "word": "less",
+      "meaning": "To a smaller extent; not so much.",
+      "hindi": "कम"
+    },
+    {
+      "id": 26,
+      "word": "realize",
+      "meaning": "Become fully aware of something as a fact; understand clearly.",
+      "hindi": "एहसास"
+    },
+    {
+      "id": 27,
+      "word": "hundred",
+      "meaning": "The number equivalent to the product of ten and ten.",
+      "hindi": "सौ"
+    },
+    {
+      "id": 28,
+      "word": "available",
+      "meaning": "Able to be used or obtained; at someone's disposal.",
+      "hindi": "उपलब्ध"
+    },
+    {
+      "id": 29,
+      "word": "plant",
+      "meaning": "A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses.",
+      "hindi": "पौधा"
+    },
+    {
+      "id": 30,
+      "word": "likely",
+      "meaning": "Such as well might happen or be the case; probable.",
+      "hindi": "संभवतः"
+    },
+    {
+      "id": 31,
+      "word": "opportunity",
+      "meaning": "A set of circumstances that makes it possible to do something.",
+      "hindi": "अवसर"
+    },
+    {
+      "id": 32,
+      "word": "term",
+      "meaning": "A word or phrase used to describe a thing or to express a concept.",
+      "hindi": "शब्द"
+    },
+    {
+      "id": 33,
+      "word": "short",
+      "meaning": "Measuring a small distance from end to end.",
+      "hindi": "छोटा"
+    },
+    {
+      "id": 34,
+      "word": "letter",
+      "meaning": "A written, typed, or printed communication, especially one sent in an envelope by mail.",
+      "hindi": "पत्र"
+    },
+    {
+      "id": 35,
+      "word": "condition",
+      "meaning": "The state of something with regard to its appearance, quality, or working order.",
+      "hindi": "स्थिति"
+    },
+    {
+      "id": 36,
+      "word": "choice",
+      "meaning": "An act of selecting or making a decision when faced with two or more possibilities.",
+      "hindi": "विकल्प"
+    },
+    {
+      "id": 37,
+      "word": "place",
+      "meaning": "To put in a particular position.",
+      "hindi": "रखना"
+    },
+    {
+      "id": 38,
+      "word": "single",
+      "meaning": "Only one; not one of several.",
+      "hindi": "एकल"
+    },
+    {
+      "id": 39,
+      "word": "rule",
+      "meaning": "One of a set of explicit or understood regulations or principles governing conduct.",
+      "hindi": "नियम"
+    },
+    {
+      "id": 40,
+      "word": "daughter",
+      "meaning": "A girl or woman in relation to either of her parents.",
+      "hindi": "बेटी"
+    },
+    {
+      "id": 41,
+      "word": "administration",
+      "meaning": "The process or activity of running a business, organization, etc.",
+      "hindi": "प्रशासन"
+    },
+    {
+      "id": 42,
+      "word": "south",
+      "meaning": "The direction toward the point of the horizon 90 degrees clockwise from east.",
+      "hindi": "दक्षिण"
+    },
+    {
+      "id": 43,
+      "word": "husband",
+      "meaning": "A married man considered in relation to his spouse.",
+      "hindi": "पति"
+    },
+    {
+      "id": 44,
+      "word": "Congress",
+      "meaning": "The national legislative body of a country.",
+      "hindi": "कांग्रेस"
+    },
+    {
+      "id": 45,
+      "word": "floor",
+      "meaning": "The lower surface of a room, on which one may walk.",
+      "hindi": "मंज़िल"
+    },
+    {
+      "id": 46,
+      "word": "campaign",
+      "meaning": "A series of military operations intended to achieve a particular objective.",
+      "hindi": "अभियान"
+    },
+    {
+      "id": 47,
+      "word": "material",
+      "meaning": "The matter from which a thing is or can be made.",
+      "hindi": "सामग्री"
+    },
+    {
+      "id": 48,
+      "word": "population",
+      "meaning": "All the inhabitants of a particular town, area, or country.",
+      "hindi": "जनसंख्या"
+    },
+    {
+      "id": 49,
+      "word": "well",
+      "meaning": "A shaft sunk into the ground to obtain water, oil, or gas.",
+      "hindi": "कुआँ"
+    },
+    {
+      "id": 50,
+      "word": "call",
+      "meaning": "A cry or shout.",
+      "hindi": "पुकार"
+    }
+  ],
+  "13": [
+    {
+      "id": 1,
+      "word": "economy",
+      "meaning": "The state of a country or region in terms of the production and consumption of goods.",
+      "hindi": "अर्थव्यवस्था"
+    },
+    {
+      "id": 2,
+      "word": "medical",
+      "meaning": "Relating to the science or practice of medicine.",
+      "hindi": "चिकित्सा"
+    },
+    {
+      "id": 3,
+      "word": "hospital",
+      "meaning": "An institution providing medical and surgical treatment and nursing care for sick or injured people.",
+      "hindi": "अस्पताल"
+    },
+    {
+      "id": 4,
+      "word": "church",
+      "meaning": "A building used for public Christian worship.",
+      "hindi": "चर्च"
+    },
+    {
+      "id": 5,
+      "word": "close",
+      "meaning": "To move something so as to cover an opening.",
+      "hindi": "बंद करना"
+    },
+    {
+      "id": 6,
+      "word": "thousand",
+      "meaning": "The number equivalent to the product of a hundred and ten.",
+      "hindi": "हज़ार"
+    },
+    {
+      "id": 7,
+      "word": "risk",
+      "meaning": "A situation involving exposure to danger.",
+      "hindi": "जोखिम"
+    },
+    {
+      "id": 8,
+      "word": "current",
+      "meaning": "Belonging to the present time; happening or being used or done now.",
+      "hindi": "वर्तमान"
+    },
+    {
+      "id": 9,
+      "word": "fire",
+      "meaning": "Combustion or burning, in which substances combine chemically with oxygen.",
+      "hindi": "आग"
+    },
+    {
+      "id": 10,
+      "word": "future",
+      "meaning": "The time or a period of time following the moment of speaking or writing.",
+      "hindi": "भविष्य"
+    },
+    {
+      "id": 11,
+      "word": "wrong",
+      "meaning": "Not correct or true; incorrect.",
+      "hindi": "गलत"
+    },
+    {
+      "id": 12,
+      "word": "involve",
+      "meaning": "Have or include something as a necessary or integral part or result.",
+      "hindi": "शामिल करना"
+    },
+    {
+      "id": 13,
+      "word": "defense",
+      "meaning": "The action of defending from or resisting attack.",
+      "hindi": "रक्षा"
+    },
+    {
+      "id": 14,
+      "word": "anyone",
+      "meaning": "Any person or people.",
+      "hindi": "कोई भी"
+    },
+    {
+      "id": 15,
+      "word": "increase",
+      "meaning": "Become or make greater in size, amount, intensity, or degree.",
+      "hindi": "बढ़ाना"
+    },
+    {
+      "id": 16,
+      "word": "security",
+      "meaning": "The state of being free from danger or threat.",
+      "hindi": "सुरक्षा"
+    },
+    {
+      "id": 17,
+      "word": "bank",
+      "meaning": "A financial establishment that invests money deposited by customers.",
+      "hindi": "बैंक"
+    },
+    {
+      "id": 18,
+      "word": "myself",
+      "meaning": "Used by a speaker to refer to himself or herself as the object of a verb or preposition.",
+      "hindi": "मैं खुद"
+    },
+    {
+      "id": 19,
+      "word": "certainly",
+      "meaning": "Without doubt.",
+      "hindi": "निश्चित रूप से"
+    },
+    {
+      "id": 20,
+      "word": "west",
+      "meaning": "The direction toward the point of the horizon where the sun sets.",
+      "hindi": "पश्चिम"
+    },
+    {
+      "id": 21,
+      "word": "sport",
+      "meaning": "An activity involving physical exertion and skill.",
+      "hindi": "खेल"
+    },
+    {
+      "id": 22,
+      "word": "board",
+      "meaning": "A long, thin, flat piece of wood or other hard material.",
+      "hindi": "बोर्ड"
+    },
+    {
+      "id": 23,
+      "word": "seek",
+      "meaning": "Attempt to find something.",
+      "hindi": "खोजना"
+    },
+    {
+      "id": 24,
+      "word": "per",
+      "meaning": "For each.",
+      "hindi": "प्रति"
+    },
+    {
+      "id": 25,
+      "word": "subject",
+      "meaning": "A person or thing that is being discussed, described, or dealt with.",
+      "hindi": "विषय"
+    },
+    {
+      "id": 26,
+      "word": "officer",
+      "meaning": "A person holding a position of command or authority.",
+      "hindi": "अधिकारी"
+    },
+    {
+      "id": 27,
+      "word": "private",
+      "meaning": "For or belonging to a particular person or people only.",
+      "hindi": "निजी"
+    },
+    {
+      "id": 28,
+      "word": "rest",
+      "meaning": "Cease work or movement in order to relax, refresh oneself, or recover strength.",
+      "hindi": "आराम"
+    },
+    {
+      "id": 29,
+      "word": "behavior",
+      "meaning": "The way in which one acts or conducts oneself.",
+      "hindi": "व्यवहार"
+    },
+    {
+      "id": 30,
+      "word": "deal",
+      "meaning": "An agreement entered into by two or more parties for their mutual benefit.",
+      "hindi": "सौदा"
+    },
+    {
+      "id": 31,
+      "word": "performance",
+      "meaning": "An act of staging or presenting a play, concert, or other form of entertainment.",
+      "hindi": "प्रदर्शन"
+    },
+    {
+      "id": 32,
+      "word": "fight",
+      "meaning": "Take part in a violent struggle involving the exchange of physical blows.",
+      "hindi": "लड़ाई"
+    },
+    {
+      "id": 33,
+      "word": "throw",
+      "meaning": "Propel something with force through the air by a movement of the arm and hand.",
+      "hindi": "फेंकना"
+    },
+    {
+      "id": 34,
+      "word": "top",
+      "meaning": "The highest or uppermost point, part, or surface of something.",
+      "hindi": "शीर्ष"
+    },
+    {
+      "id": 35,
+      "word": "quickly",
+      "meaning": "At a fast speed; rapidly.",
+      "hindi": "जल्दी से"
+    },
+    {
+      "id": 36,
+      "word": "past",
+      "meaning": "Gone by in time and no longer existing.",
+      "hindi": "अतीत"
+    },
+    {
+      "id": 37,
+      "word": "goal",
+      "meaning": "The object of a person's ambition or effort; an aim or desired result.",
+      "hindi": "लक्ष्य"
+    },
+    {
+      "id": 38,
+      "word": "second",
+      "meaning": "A unit of time equal to one sixtieth of a minute.",
+      "hindi": "सेकंड"
+    },
+    {
+      "id": 39,
+      "word": "bed",
+      "meaning": "A piece of furniture used for sleep or rest.",
+      "hindi": "बिस्तर"
+    },
+    {
+      "id": 40,
+      "word": "order",
+      "meaning": "The arrangement or disposition of people or things in relation to each other.",
+      "hindi": "आदेश"
+    },
+    {
+      "id": 41,
+      "word": "author",
+      "meaning": "A writer of a book, article, or report.",
+      "hindi": "लेखक"
+    },
+    {
+      "id": 42,
+      "word": "fill",
+      "meaning": "Cause a space or container to become full or almost full.",
+      "hindi": "भरना"
+    },
+    {
+      "id": 43,
+      "word": "represent",
+      "meaning": "Be entitled or appointed to act or speak for someone.",
+      "hindi": "प्रतिनिधित्व करना"
+    },
+    {
+      "id": 44,
+      "word": "focus",
+      "meaning": "The center of interest or activity.",
+      "hindi": "ध्यान केंद्रित करना"
+    },
+    {
+      "id": 45,
+      "word": "foreign",
+      "meaning": "Of, from, in, or characteristic of a country or language other than one's own.",
+      "hindi": "विदेशी"
+    },
+    {
+      "id": 46,
+      "word": "drop",
+      "meaning": "Let or make something fall vertically.",
+      "hindi": "गिराना"
+    },
+    {
+      "id": 47,
+      "word": "plan",
+      "meaning": "To decide on and arrange in advance.",
+      "hindi": "योजना बनाना"
+    },
+    {
+      "id": 48,
+      "word": "blood",
+      "meaning": "The red liquid that circulates in the arteries and veins of humans.",
+      "hindi": "खून"
+    },
+    {
+      "id": 49,
+      "word": "upon",
+      "meaning": "More formal term for on.",
+      "hindi": "ऊपर"
+    },
+    {
+      "id": 50,
+      "word": "agency",
+      "meaning": "A business or organization established to provide a particular service.",
+      "hindi": "एजेंसी"
+    }
+  ],
+  "14": [
+    {
+      "id": 1,
+      "word": "push",
+      "meaning": "Exert force on someone or something in order to move them away.",
+      "hindi": "धक्का देना"
+    },
+    {
+      "id": 2,
+      "word": "nature",
+      "meaning": "The phenomena of the physical world collectively.",
+      "hindi": "प्रकृति"
+    },
+    {
+      "id": 3,
+      "word": "color",
+      "meaning": "The property possessed by an object of producing different sensations on the eye.",
+      "hindi": "रंग"
+    },
+    {
+      "id": 4,
+      "word": "no",
+      "meaning": "Not at all; to no extent.",
+      "hindi": "बिलकुल नहीं"
+    },
+    {
+      "id": 5,
+      "word": "recently",
+      "meaning": "At a recent time; not long ago.",
+      "hindi": "हाल ही में"
+    },
+    {
+      "id": 6,
+      "word": "store",
+      "meaning": "A place where things are sold.",
+      "hindi": "दुकान"
+    },
+    {
+      "id": 7,
+      "word": "reduce",
+      "meaning": "Make smaller or less in amount, degree, or size.",
+      "hindi": "कम करना"
+    },
+    {
+      "id": 8,
+      "word": "sound",
+      "meaning": "Vibrations that travel through the air or another medium and can be heard.",
+      "hindi": "ध्वनि"
+    },
+    {
+      "id": 9,
+      "word": "note",
+      "meaning": "A brief record of facts, topics, or thoughts, written down as an aid to memory.",
+      "hindi": "ध्यान देना"
+    },
+    {
+      "id": 10,
+      "word": "fine",
+      "meaning": "Of high quality.",
+      "hindi": "ठीक"
+    },
+    {
+      "id": 11,
+      "word": "before",
+      "meaning": "In front of.",
+      "hindi": "सामने"
+    },
+    {
+      "id": 12,
+      "word": "near",
+      "meaning": "At or to a short distance away; a short time away.",
+      "hindi": "पास"
+    },
+    {
+      "id": 13,
+      "word": "movement",
+      "meaning": "An act of changing physical location or position.",
+      "hindi": "आंदोलन"
+    },
+    {
+      "id": 14,
+      "word": "page",
+      "meaning": "One side of a sheet of paper in a collection of papers.",
+      "hindi": "पृष्ठ"
+    },
+    {
+      "id": 15,
+      "word": "enter",
+      "meaning": "Come or go into a place.",
+      "hindi": "प्रवेश करना"
+    },
+    {
+      "id": 16,
+      "word": "share",
+      "meaning": "A part or portion of a larger amount which is divided among a number of people.",
+      "hindi": "बांटना"
+    },
+    {
+      "id": 17,
+      "word": "common",
+      "meaning": "Occurring, found, or done often; prevalent.",
+      "hindi": "आम"
+    },
+    {
+      "id": 18,
+      "word": "poor",
+      "meaning": "Lacking sufficient money to live at a standard considered comfortable or normal.",
+      "hindi": "गरीब"
+    },
+    {
+      "id": 19,
+      "word": "other",
+      "meaning": "As an alternative.",
+      "hindi": "अन्यथा"
+    },
+    {
+      "id": 20,
+      "word": "natural",
+      "meaning": "Existing in or caused by nature; not made or caused by humankind.",
+      "hindi": "प्राकृतिक"
+    },
+    {
+      "id": 21,
+      "word": "race",
+      "meaning": "A competition between runners, horses, vehicles, etc., to see which is the fastest.",
+      "hindi": "दौड़"
+    },
+    {
+      "id": 22,
+      "word": "concern",
+      "meaning": "Relate to; be about.",
+      "hindi": "चिंता"
+    },
+    {
+      "id": 23,
+      "word": "series",
+      "meaning": "A number of similar or related events or things, one following another.",
+      "hindi": "श्रृंखला"
+    },
+    {
+      "id": 24,
+      "word": "significant",
+      "meaning": "Sufficiently great or important to be worthy of attention.",
+      "hindi": "महत्वपूर्ण"
+    },
+    {
+      "id": 25,
+      "word": "similar",
+      "meaning": "Resembling without being identical.",
+      "hindi": "समान"
+    },
+    {
+      "id": 26,
+      "word": "hot",
+      "meaning": "Having a high degree of heat or a high temperature.",
+      "hindi": "गर्म"
+    },
+    {
+      "id": 27,
+      "word": "language",
+      "meaning": "The method of human communication, either spoken or written.",
+      "hindi": "भाषा"
+    },
+    {
+      "id": 28,
+      "word": "each",
+      "meaning": "As a single item.",
+      "hindi": "एक एक"
+    },
+    {
+      "id": 29,
+      "word": "usually",
+      "meaning": "Under normal conditions; generally.",
+      "hindi": "आमतौर पर"
+    },
+    {
+      "id": 30,
+      "word": "response",
+      "meaning": "A verbal or written answer.",
+      "hindi": "प्रतिक्रिया"
+    },
+    {
+      "id": 31,
+      "word": "dead",
+      "meaning": "No longer alive.",
+      "hindi": "मृत"
+    },
+    {
+      "id": 32,
+      "word": "rise",
+      "meaning": "Move from a lower position to a higher one; come or go up.",
+      "hindi": "उठना"
+    },
+    {
+      "id": 33,
+      "word": "animal",
+      "meaning": "A living organism that feeds on organic matter.",
+      "hindi": "जानवर"
+    },
+    {
+      "id": 34,
+      "word": "factor",
+      "meaning": "A circumstance, fact, or influence that contributes to a result or outcome.",
+      "hindi": "कारक"
+    },
+    {
+      "id": 35,
+      "word": "decade",
+      "meaning": "A period of ten years.",
+      "hindi": "दशक"
+    },
+    {
+      "id": 36,
+      "word": "article",
+      "meaning": "A piece of writing included with others in a newspaper, magazine, or other publication.",
+      "hindi": "लेख"
+    },
+    {
+      "id": 37,
+      "word": "shoot",
+      "meaning": "Kill or wound a person or animal with a bullet or arrow.",
+      "hindi": "गोली मारना"
+    },
+    {
+      "id": 38,
+      "word": "east",
+      "meaning": "The direction toward the point of the horizon where the sun rises.",
+      "hindi": "पूर्व"
+    },
+    {
+      "id": 39,
+      "word": "save",
+      "meaning": "Keep safe or rescue someone or something from harm or danger.",
+      "hindi": "बचाना"
+    },
+    {
+      "id": 40,
+      "word": "seven",
+      "meaning": "Equivalent to the sum of three and four.",
+      "hindi": "सात"
+    },
+    {
+      "id": 41,
+      "word": "artist",
+      "meaning": "A person who creates paintings or drawings as a profession or hobby.",
+      "hindi": "कलाकार"
+    },
+    {
+      "id": 42,
+      "word": "away",
+      "meaning": "Into storage.",
+      "hindi": "एक तरफ"
+    },
+    {
+      "id": 43,
+      "word": "scene",
+      "meaning": "The place where an incident in real life or fiction occurs or occurred.",
+      "hindi": "दृश्य"
+    },
+    {
+      "id": 44,
+      "word": "stock",
+      "meaning": "The goods or merchandise kept on the premises of a business or warehouse.",
+      "hindi": "भंडार"
+    },
+    {
+      "id": 45,
+      "word": "career",
+      "meaning": "An occupation undertaken for a significant period of a person's life.",
+      "hindi": "पेशा"
+    },
+    {
+      "id": 46,
+      "word": "despite",
+      "meaning": "Without being affected by; in spite of.",
+      "hindi": "के बावजूद"
+    },
+    {
+      "id": 47,
+      "word": "central",
+      "meaning": "Of or forming the center.",
+      "hindi": "केंद्रीय"
+    },
+    {
+      "id": 48,
+      "word": "eight",
+      "meaning": "Equivalent to the sum of four and four.",
+      "hindi": "आठ"
+    },
+    {
+      "id": 49,
+      "word": "thus",
+      "meaning": "As a result or consequence of this; therefore.",
+      "hindi": "इस प्रकार"
+    }
+  ],
+  "15": [
+    {
+      "id": 1,
+      "word": "treatment",
+      "meaning": "Medical care given to a patient for an illness or injury.",
+      "hindi": "इलाज"
+    },
+    {
+      "id": 2,
+      "word": "beyond",
+      "meaning": "At or to the further side of.",
+      "hindi": "परे"
+    },
+    {
+      "id": 3,
+      "word": "happy",
+      "meaning": "Feeling or showing pleasure or contentment.",
+      "hindi": "खुश"
+    },
+    {
+      "id": 4,
+      "word": "exactly",
+      "meaning": "In exact terms; without vagueness.",
+      "hindi": "बिल्कुल"
+    },
+    {
+      "id": 5,
+      "word": "protect",
+      "meaning": "Keep safe from harm or injury.",
+      "hindi": "रक्षा करना"
+    },
+    {
+      "id": 6,
+      "word": "approach",
+      "meaning": "Come near or nearer to someone or something in distance or time.",
+      "hindi": "दृष्टिकोण"
+    },
+    {
+      "id": 7,
+      "word": "lie",
+      "meaning": "Be in or assume a horizontal or resting position on a supporting surface.",
+      "hindi": "लेटना"
+    },
+    {
+      "id": 8,
+      "word": "size",
+      "meaning": "The relative extent of something; a thing's overall dimensions or magnitude.",
+      "hindi": "आकार"
+    },
+    {
+      "id": 9,
+      "word": "your",
+      "meaning": "Used to refer to a thing or things belonging to or associated with any person in general.",
+      "hindi": "तुम्हारा"
+    },
+    {
+      "id": 10,
+      "word": "air",
+      "meaning": "To express an opinion or grievance publicly.",
+      "hindi": "प्रसारित करना"
+    },
+    {
+      "id": 11,
+      "word": "eventually",
+      "meaning": "In the end, especially after a long delay, dispute, or series of problems.",
+      "hindi": "अंत में"
+    },
+    {
+      "id": 12,
+      "word": "election",
+      "meaning": "A formal and organized choice by vote of a person for a political office.",
+      "hindi": "चुनाव"
+    },
+    {
+      "id": 13,
+      "word": "inside",
+      "meaning": "The inner side or surface of something.",
+      "hindi": "अंदर"
+    },
+    {
+      "id": 14,
+      "word": "entire",
+      "meaning": "With no part left out; whole.",
+      "hindi": "पूरा"
+    },
+    {
+      "id": 15,
+      "word": "instead",
+      "meaning": "As an alternative to.",
+      "hindi": "के बजाय"
+    },
+    {
+      "id": 16,
+      "word": "metal",
+      "meaning": "A solid material which is typically hard, shiny, malleable, fusible, and ductile.",
+      "hindi": "धातु"
+    },
+    {
+      "id": 17,
+      "word": "run",
+      "meaning": "To be in charge of; manage.",
+      "hindi": "चलाना"
+    },
+    {
+      "id": 18,
+      "word": "commercial",
+      "meaning": "Concerned with or engaged in commerce.",
+      "hindi": "व्यावसायिक"
+    },
+    {
+      "id": 19,
+      "word": "discover",
+      "meaning": "Find something or someone unexpectedly or in the course of a search.",
+      "hindi": "खोज करना"
+    },
+    {
+      "id": 20,
+      "word": "benefit",
+      "meaning": "An advantage or profit gained from something.",
+      "hindi": "लाभ"
+    },
+    {
+      "id": 21,
+      "word": "road",
+      "meaning": "A wide way leading from one place to another.",
+      "hindi": "सड़क"
+    },
+    {
+      "id": 22,
+      "word": "legal",
+      "meaning": "Of, based on, or concerned with the law.",
+      "hindi": "कानूनी"
+    },
+    {
+      "id": 23,
+      "word": "final",
+      "meaning": "Coming at the end of a series.",
+      "hindi": "अंतिम"
+    },
+    {
+      "id": 24,
+      "word": "main",
+      "meaning": "Chief in size or importance.",
+      "hindi": "मुख्य"
+    },
+    {
+      "id": 25,
+      "word": "science",
+      "meaning": "The intellectual and practical activity encompassing the systematic study of the structure and behavior of the physical and natural world.",
+      "hindi": "विज्ञान"
+    },
+    {
+      "id": 26,
+      "word": "green",
+      "meaning": "Of the color between blue and yellow in the spectrum.",
+      "hindi": "हरा"
+    },
+    {
+      "id": 27,
+      "word": "memory",
+      "meaning": "The faculty by which the mind stores and remembers information.",
+      "hindi": "याद"
+    },
+    {
+      "id": 28,
+      "word": "card",
+      "meaning": "A piece of thick, stiff paper or thin pasteboard.",
+      "hindi": "कार्ड"
+    },
+    {
+      "id": 29,
+      "word": "above",
+      "meaning": "At a higher level or layer.",
+      "hindi": "ऊपर"
+    },
+    {
+      "id": 30,
+      "word": "seat",
+      "meaning": "A thing made or used for sitting on, such as a chair or stool.",
+      "hindi": "सीट"
+    },
+    {
+      "id": 31,
+      "word": "cell",
+      "meaning": "A small room in which a prisoner is locked up.",
+      "hindi": "कोठरी"
+    },
+    {
+      "id": 32,
+      "word": "establish",
+      "meaning": "Set up an organization, system, or set of rules on a firm or permanent basis.",
+      "hindi": "स्थापित करना"
+    },
+    {
+      "id": 33,
+      "word": "nice",
+      "meaning": "Pleasant; agreeable; satisfactory.",
+      "hindi": "अच्छा"
+    },
+    {
+      "id": 34,
+      "word": "trial",
+      "meaning": "A formal examination of evidence before a judge, and typically before a jury.",
+      "hindi": "परीक्षण"
+    },
+    {
+      "id": 35,
+      "word": "expert",
+      "meaning": "A person who has a comprehensive and authoritative knowledge of a particular area.",
+      "hindi": "विशेषज्ञ"
+    },
+    {
+      "id": 36,
+      "word": "that",
+      "meaning": "To a significant extent.",
+      "hindi": "इतना"
+    },
+    {
+      "id": 37,
+      "word": "spring",
+      "meaning": "The season after winter and before summer.",
+      "hindi": "वसंत"
+    },
+    {
+      "id": 38,
+      "word": "firm",
+      "meaning": "A business concern, especially one involving a partnership of two or more people.",
+      "hindi": "फ़र्म"
+    },
+    {
+      "id": 39,
+      "word": "Democrat",
+      "meaning": "An advocate or supporter of democracy.",
+      "hindi": "डेमोक्रेट"
+    },
+    {
+      "id": 40,
+      "word": "radio",
+      "meaning": "The transmission and reception of electromagnetic waves of radio frequency.",
+      "hindi": "रेडियो"
+    },
+    {
+      "id": 41,
+      "word": "visit",
+      "meaning": "Go to see and spend time with someone socially.",
+      "hindi": "मिलने जाना"
+    },
+    {
+      "id": 42,
+      "word": "management",
+      "meaning": "The process of dealing with or controlling things or people.",
+      "hindi": "प्रबंधन"
+    },
+    {
+      "id": 43,
+      "word": "care",
+      "meaning": "Feel concern or interest; attach importance to something.",
+      "hindi": "परवाह करना"
+    },
+    {
+      "id": 44,
+      "word": "avoid",
+      "meaning": "Keep away from or stop oneself from doing something.",
+      "hindi": "बचना"
+    },
+    {
+      "id": 45,
+      "word": "imagine",
+      "meaning": "Form a mental image or concept of.",
+      "hindi": "कल्पना करना"
+    },
+    {
+      "id": 46,
+      "word": "tonight",
+      "meaning": "The evening or night of the present day.",
+      "hindi": "आज रात"
+    },
+    {
+      "id": 47,
+      "word": "huge",
+      "meaning": "Extremely large; enormous.",
+      "hindi": "विशाल"
+    },
+    {
+      "id": 48,
+      "word": "ball",
+      "meaning": "A solid or hollow spherical or ovoid object.",
+      "hindi": "गेंद"
+    },
+    {
+      "id": 49,
+      "word": "no",
+      "meaning": "Used to give a negative response.",
+      "hindi": "नहीं"
+    },
+    {
+      "id": 50,
+      "word": "close",
+      "meaning": "A short distance away or apart in space or time.",
+      "hindi": "निकट"
+    }
+  ],
+  "16": [
+    {
+      "id": 1,
+      "word": "finish",
+      "meaning": "Bring a task or activity to an end; complete.",
+      "hindi": "समाप्त करना"
+    },
+    {
+      "id": 2,
+      "word": "yourself",
+      "meaning": "Used to refer to the person being addressed as the object of a verb or preposition.",
+      "hindi": "आप खुद"
+    },
+    {
+      "id": 3,
+      "word": "talk",
+      "meaning": "A conversation or discussion.",
+      "hindi": "बातचीत"
+    },
+    {
+      "id": 4,
+      "word": "theory",
+      "meaning": "A supposition or a system of ideas intended to explain something.",
+      "hindi": "सिद्धांत"
+    },
+    {
+      "id": 5,
+      "word": "impact",
+      "meaning": "The action of one object coming forcibly into contact with another.",
+      "hindi": "प्रभाव"
+    },
+    {
+      "id": 6,
+      "word": "respond",
+      "meaning": "Say something in reply.",
+      "hindi": "जवाब देना"
+    },
+    {
+      "id": 7,
+      "word": "statement",
+      "meaning": "A definite or clear expression of something in speech or writing.",
+      "hindi": "बयान"
+    },
+    {
+      "id": 8,
+      "word": "maintain",
+      "meaning": "Cause or enable a condition or situation to continue.",
+      "hindi": "बनाए रखना"
+    },
+    {
+      "id": 9,
+      "word": "charge",
+      "meaning": "Demand an amount as a price for a service rendered or goods supplied.",
+      "hindi": "शुल्क"
+    },
+    {
+      "id": 10,
+      "word": "popular",
+      "meaning": "Liked, admired, or enjoyed by many people or by a particular person or group.",
+      "hindi": "लोकप्रिय"
+    },
+    {
+      "id": 11,
+      "word": "traditional",
+      "meaning": "Existing in or as part of a tradition; long-established.",
+      "hindi": "पारंपरिक"
+    },
+    {
+      "id": 12,
+      "word": "onto",
+      "meaning": "Moving to a position on the surface of.",
+      "hindi": "पर"
+    },
+    {
+      "id": 13,
+      "word": "reveal",
+      "meaning": "Make previously unknown or secret information known to others.",
+      "hindi": "प्रकट करना"
+    },
+    {
+      "id": 14,
+      "word": "direction",
+      "meaning": "A course along which someone or something moves.",
+      "hindi": "दिशा"
+    },
+    {
+      "id": 15,
+      "word": "weapon",
+      "meaning": "A thing designed or used for inflicting bodily harm or physical damage.",
+      "hindi": "हथियार"
+    },
+    {
+      "id": 16,
+      "word": "employee",
+      "meaning": "A person employed for wages or salary, especially at non-executive level.",
+      "hindi": "कर्मचारी"
+    },
+    {
+      "id": 17,
+      "word": "cultural",
+      "meaning": "Relating to the ideas, customs, and social behavior of a society.",
+      "hindi": "सांस्कृतिक"
+    },
+    {
+      "id": 18,
+      "word": "contain",
+      "meaning": "Have or hold someone or something within.",
+      "hindi": "शामिल होना"
+    },
+    {
+      "id": 19,
+      "word": "peace",
+      "meaning": "Freedom from disturbance; tranquility.",
+      "hindi": "शांति"
+    },
+    {
+      "id": 20,
+      "word": "head",
+      "meaning": "To be in charge of.",
+      "hindi": "नेतृत्व करना"
+    },
+    {
+      "id": 21,
+      "word": "control",
+      "meaning": "To determine the behavior or supervise the running of.",
+      "hindi": "नियंत्रित करना"
+    },
+    {
+      "id": 22,
+      "word": "character",
+      "meaning": "The mental and moral qualities distinctive to an individual.",
+      "hindi": "चरित्र"
+    },
+    {
+      "id": 23,
+      "word": "institution",
+      "meaning": "An organization founded for a religious, educational, professional, or social purpose.",
+      "hindi": "संस्था"
+    },
+    {
+      "id": 24,
+      "word": "bed",
+      "meaning": "A plot of ground in a garden in which flowers or vegetables are grown.",
+      "hindi": "क्यारी"
+    },
+    {
+      "id": 25,
+      "word": "perhaps",
+      "meaning": "Used to express uncertainty or possibility.",
+      "hindi": "शायद"
+    },
+    {
+      "id": 26,
+      "word": "box",
+      "meaning": "A container with a flat base and sides, typically square or rectangular.",
+      "hindi": "डिब्बा"
+    },
+    {
+      "id": 27,
+      "word": "TV",
+      "meaning": "A system for transmitting visual images and sound that are reproduced on screens.",
+      "hindi": "टीवी"
+    },
+    {
+      "id": 28,
+      "word": "particular",
+      "meaning": "Used to single out an individual member of a specified group or class.",
+      "hindi": "विशेष"
+    },
+    {
+      "id": 29,
+      "word": "agent",
+      "meaning": "A person who acts on behalf of another person or group.",
+      "hindi": "एजेंट"
+    },
+    {
+      "id": 30,
+      "word": "indeed",
+      "meaning": "Used to emphasize a statement or response.",
+      "hindi": "वास्तव में"
+    },
+    {
+      "id": 31,
+      "word": "whatever",
+      "meaning": "It is not important what is; it makes no difference what.",
+      "hindi": "जो कुछ भी"
+    },
+    {
+      "id": 32,
+      "word": "receive",
+      "meaning": "Suffer, experience, or be subject to.",
+      "hindi": "सहना"
+    },
+    {
+      "id": 33,
+      "word": "gas",
+      "meaning": "An airlike fluid substance which expands freely to fill any space available.",
+      "hindi": "गैस"
+    },
+    {
+      "id": 34,
+      "word": "wood",
+      "meaning": "The hard fibrous material that forms the main substance of the trunk or branches of a tree.",
+      "hindi": "लकड़ी"
+    },
+    {
+      "id": 35,
+      "word": "fail",
+      "meaning": "Be unsuccessful in achieving one's goal.",
+      "hindi": "असफल होना"
+    },
+    {
+      "id": 36,
+      "word": "compare",
+      "meaning": "Estimate, measure, or note the similarity or dissimilarity between.",
+      "hindi": "तुलना करना"
+    },
+    {
+      "id": 37,
+      "word": "remove",
+      "meaning": "Take something away or off from the position occupied.",
+      "hindi": "हटाना"
+    },
+    {
+      "id": 38,
+      "word": "sister",
+      "meaning": "A woman or girl who has one or more parents in common with another person.",
+      "hindi": "बहन"
+    },
+    {
+      "id": 39,
+      "word": "PM",
+      "meaning": "The period from noon to midnight.",
+      "hindi": "दोपहर के बाद"
+    },
+    {
+      "id": 40,
+      "word": "sea",
+      "meaning": "The expanse of salt water that covers most of the earth's surface.",
+      "hindi": "समुद्र"
+    },
+    {
+      "id": 41,
+      "word": "relate",
+      "meaning": "Make or show a connection between.",
+      "hindi": "संबंधित होना"
+    },
+    {
+      "id": 42,
+      "word": "total",
+      "meaning": "Comprising the whole.",
+      "hindi": "कुल"
+    },
+    {
+      "id": 43,
+      "word": "press",
+      "meaning": "Move or cause to move into a position of contact with something by exerting continuous physical force.",
+      "hindi": "दबाना"
+    },
+    {
+      "id": 44,
+      "word": "trip",
+      "meaning": "A journey or excursion, especially for pleasure.",
+      "hindi": "यात्रा"
+    },
+    {
+      "id": 45,
+      "word": "physical",
+      "meaning": "Relating to the body as opposed to the mind.",
+      "hindi": "शारीरिक"
+    },
+    {
+      "id": 46,
+      "word": "knowledge",
+      "meaning": "Facts, information, and skills acquired through experience or education.",
+      "hindi": "ज्ञान"
+    },
+    {
+      "id": 47,
+      "word": "investment",
+      "meaning": "The action or process of investing money for profit.",
+      "hindi": "निवेश"
+    },
+    {
+      "id": 48,
+      "word": "left",
+      "meaning": "On, toward, or relating to the side of a human body.",
+      "hindi": "बायां"
+    },
+    {
+      "id": 49,
+      "word": "especially",
+      "meaning": "To a great extent; very much.",
+      "hindi": "खास तौर पर"
+    },
+    {
+      "id": 50,
+      "word": "wait",
+      "meaning": "The action of staying where one is or delaying action.",
+      "hindi": "इंतजार"
+    }
+  ],
+  "17": [
+    {
+      "id": 1,
+      "word": "help",
+      "meaning": "The action of helping someone to do something.",
+      "hindi": "मदद"
+    },
+    {
+      "id": 2,
+      "word": "senior",
+      "meaning": "Of a more advanced age.",
+      "hindi": "वरिष्ठ"
+    },
+    {
+      "id": 3,
+      "word": "various",
+      "meaning": "Different from one another; of different kinds or sorts.",
+      "hindi": "विभिन्न"
+    },
+    {
+      "id": 4,
+      "word": "rather",
+      "meaning": "Used to express emphatic contradiction or denial.",
+      "hindi": "बल्कि"
+    },
+    {
+      "id": 5,
+      "word": "specific",
+      "meaning": "Clearly defined or identified.",
+      "hindi": "विशिष्ट"
+    },
+    {
+      "id": 6,
+      "word": "responsible",
+      "meaning": "Having an obligation to do something, or having control over or care for someone.",
+      "hindi": "ज़िम्मेदार"
+    },
+    {
+      "id": 7,
+      "word": "deal",
+      "meaning": "To distribute cards to players in a game.",
+      "hindi": "बांटना"
+    },
+    {
+      "id": 8,
+      "word": "supply",
+      "meaning": "Make something needed or wanted available to someone; provide.",
+      "hindi": "आपूर्ति करना"
+    },
+    {
+      "id": 9,
+      "word": "original",
+      "meaning": "Present or existing from the beginning; first or earliest.",
+      "hindi": "मूल"
+    },
+    {
+      "id": 10,
+      "word": "wide",
+      "meaning": "Of great or more than average width.",
+      "hindi": "चौड़ा"
+    },
+    {
+      "id": 11,
+      "word": "beautiful",
+      "meaning": "Pleasing the senses or mind aesthetically.",
+      "hindi": "सुंदर"
+    },
+    {
+      "id": 12,
+      "word": "charge",
+      "meaning": "The responsibility of taking care or control of someone or something.",
+      "hindi": "प्रभार"
+    },
+    {
+      "id": 13,
+      "word": "task",
+      "meaning": "A piece of work to be done or undertaken.",
+      "hindi": "कार्य"
+    },
+    {
+      "id": 14,
+      "word": "structure",
+      "meaning": "The arrangement of and relations between the parts or elements of something complex.",
+      "hindi": "संरचना"
+    },
+    {
+      "id": 15,
+      "word": "dog",
+      "meaning": "A domesticated carnivorous mammal that typically has a long snout.",
+      "hindi": "कुत्ता"
+    },
+    {
+      "id": 16,
+      "word": "star",
+      "meaning": "A famous or exceptionally talented performer in the world of entertainment or sports.",
+      "hindi": "सितारा"
+    },
+    {
+      "id": 17,
+      "word": "labor",
+      "meaning": "Work, especially hard physical work.",
+      "hindi": "श्रम"
+    },
+    {
+      "id": 18,
+      "word": "collection",
+      "meaning": "The action or process of collecting someone or something.",
+      "hindi": "संग्रह"
+    },
+    {
+      "id": 19,
+      "word": "race",
+      "meaning": "Each of the major groupings into which humankind is considered to be divided.",
+      "hindi": "जाति"
+    },
+    {
+      "id": 20,
+      "word": "religious",
+      "meaning": "Relating to or believing in a religion.",
+      "hindi": "धार्मिक"
+    },
+    {
+      "id": 21,
+      "word": "truth",
+      "meaning": "The quality or state of being true.",
+      "hindi": "सत्य"
+    },
+    {
+      "id": 22,
+      "word": "district",
+      "meaning": "An area of a country or city, especially one regarded as a distinct unit.",
+      "hindi": "ज़िला"
+    },
+    {
+      "id": 23,
+      "word": "officer",
+      "meaning": "A policeman or policewoman.",
+      "hindi": "अफ़सर"
+    },
+    {
+      "id": 24,
+      "word": "style",
+      "meaning": "A manner of doing something.",
+      "hindi": "शैली"
+    },
+    {
+      "id": 25,
+      "word": "ten",
+      "meaning": "Equivalent to the sum of six and four.",
+      "hindi": "दस"
+    },
+    {
+      "id": 26,
+      "word": "fly",
+      "meaning": "Move through the air using wings.",
+      "hindi": "उड़ना"
+    },
+    {
+      "id": 27,
+      "word": "suddenly",
+      "meaning": "Quickly and unexpectedly.",
+      "hindi": "अचानक"
+    },
+    {
+      "id": 28,
+      "word": "wonder",
+      "meaning": "Desire or be curious to know something.",
+      "hindi": "आश्चर्य"
+    },
+    {
+      "id": 29,
+      "word": "recognize",
+      "meaning": "Identify someone or something from having encountered them before.",
+      "hindi": "पहचानना"
+    },
+    {
+      "id": 30,
+      "word": "shake",
+      "meaning": "Move an object vigorously up and down or from side to side.",
+      "hindi": "हिलाना"
+    },
+    {
+      "id": 31,
+      "word": "prevent",
+      "meaning": "Keep something from happening or arising.",
+      "hindi": "रोकना"
+    },
+    {
+      "id": 32,
+      "word": "camera",
+      "meaning": "A device for recording visual images in the form of photographs, film, or video signals.",
+      "hindi": "कैमरा"
+    },
+    {
+      "id": 33,
+      "word": "address",
+      "meaning": "The particulars of the place where someone lives or an organization is situated.",
+      "hindi": "पता"
+    },
+    {
+      "id": 34,
+      "word": "rock",
+      "meaning": "The solid mineral material forming part of the surface of the earth.",
+      "hindi": "चट्टान"
+    },
+    {
+      "id": 35,
+      "word": "pressure",
+      "meaning": "The continuous physical force exerted on or against an object.",
+      "hindi": "दबाव"
+    },
+    {
+      "id": 36,
+      "word": "accept",
+      "meaning": "Consent to receive or undertake something offered.",
+      "hindi": "स्वीकार करना"
+    },
+    {
+      "id": 37,
+      "word": "discussion",
+      "meaning": "The action or process of talking about something in order to reach a decision.",
+      "hindi": "चर्चा"
+    },
+    {
+      "id": 38,
+      "word": "determine",
+      "meaning": "Cause something to occur in a particular way; be the decisive factor in.",
+      "hindi": "निर्धारित करना"
+    },
+    {
+      "id": 39,
+      "word": "prepare",
+      "meaning": "Make something ready for use or consideration.",
+      "hindi": "तैयार करना"
+    },
+    {
+      "id": 40,
+      "word": "argue",
+      "meaning": "Give reasons or cite evidence in support of an idea, action, or theory.",
+      "hindi": "बहस करना"
+    },
+    {
+      "id": 41,
+      "word": "explain",
+      "meaning": "Make an idea or situation clear to someone by describing it in more detail.",
+      "hindi": "समझाना"
+    },
+    {
+      "id": 42,
+      "word": "relationship",
+      "meaning": "The way in which two or more people or things are connected.",
+      "hindi": "संबंध"
+    },
+    {
+      "id": 43,
+      "word": "current",
+      "meaning": "A body of water or air moving in a definite direction.",
+      "hindi": "धारा"
+    },
+    {
+      "id": 44,
+      "word": "successful",
+      "meaning": "Accomplishing a desired aim or result.",
+      "hindi": "सफल"
+    },
+    {
+      "id": 45,
+      "word": "opinion",
+      "meaning": "A view or judgment formed about something, not necessarily based on fact or knowledge.",
+      "hindi": "राय"
+    },
+    {
+      "id": 46,
+      "word": "garden",
+      "meaning": "A piece of ground adjoining a house, in which grass, flowers, and shrubs may be grown.",
+      "hindi": "बगीचा"
+    },
+    {
+      "id": 47,
+      "word": "attack",
+      "meaning": "Take aggressive military action against a place or enemy forces.",
+      "hindi": "आक्रमण"
+    },
+    {
+      "id": 48,
+      "word": "strategy",
+      "meaning": "A plan of action designed to achieve a long-term or overall aim.",
+      "hindi": "रणनीति"
+    },
+    {
+      "id": 49,
+      "word": "sign",
+      "meaning": "An object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else.",
+      "hindi": "संकेत"
+    },
+    {
+      "id": 50,
+      "word": "cold",
+      "meaning": "Of or at a low or relatively low temperature.",
+      "hindi": "ठंडा"
+    }
+  ],
+  "18": [
+    {
+      "id": 1,
+      "word": "arrive",
+      "meaning": "Reach a place at the end of a journey or a stage in a journey.",
+      "hindi": "पहुंचना"
+    },
+    {
+      "id": 2,
+      "word": "attack",
+      "meaning": "An aggressive and violent action against a person or place.",
+      "hindi": "हमला"
+    },
+    {
+      "id": 3,
+      "word": "director",
+      "meaning": "A person who is in charge of an activity, department, or organization.",
+      "hindi": "निर्देशक"
+    },
+    {
+      "id": 4,
+      "word": "eat",
+      "meaning": "Put food into the mouth and chew and swallow it.",
+      "hindi": "खाना"
+    },
+    {
+      "id": 5,
+      "word": "everyone",
+      "meaning": "Every person.",
+      "hindi": "हर कोई"
+    },
+    {
+      "id": 6,
+      "word": "forward",
+      "meaning": "In the direction that one is facing or traveling.",
+      "hindi": "आगे"
+    },
+    {
+      "id": 7,
+      "word": "hit",
+      "meaning": "Bring one's hand or a tool or weapon into contact with something quickly and forcefully.",
+      "hindi": "मारना"
+    },
+    {
+      "id": 8,
+      "word": "individual",
+      "meaning": "Single; separate.",
+      "hindi": "व्यक्तिगत"
+    },
+    {
+      "id": 9,
+      "word": "key",
+      "meaning": "A small piece of shaped metal with incisions cut to fit the wards of a particular lock.",
+      "hindi": "चाबी"
+    },
+    {
+      "id": 10,
+      "word": "lawyer",
+      "meaning": "A person who practices or studies law.",
+      "hindi": "वकील"
+    },
+    {
+      "id": 11,
+      "word": "lay",
+      "meaning": "Put down, especially gently or carefully.",
+      "hindi": "रखना"
+    },
+    {
+      "id": 12,
+      "word": "let",
+      "meaning": "Not prevent or forbid; allow.",
+      "hindi": "अनुमति देना"
+    },
+    {
+      "id": 13,
+      "word": "modern",
+      "meaning": "Relating to the present or recent times as opposed to the remote past.",
+      "hindi": "आधुनिक"
+    },
+    {
+      "id": 14,
+      "word": "necessary",
+      "meaning": "Required to be done, achieved, or present; needed; essential.",
+      "hindi": "आवश्यक"
+    },
+    {
+      "id": 15,
+      "word": "notice",
+      "meaning": "The fact of observing or paying attention to something.",
+      "hindi": "सूचना"
+    },
+    {
+      "id": 16,
+      "word": "outside",
+      "meaning": "The external side or surface of something.",
+      "hindi": "बाहर"
+    },
+    {
+      "id": 17,
+      "word": "partner",
+      "meaning": "A person who takes part in an undertaking with another or others.",
+      "hindi": "साथी"
+    },
+    {
+      "id": 18,
+      "word": "perform",
+      "meaning": "Carry out, accomplish, or fulfill an action, task, or function.",
+      "hindi": "प्रदर्शन करना"
+    },
+    {
+      "id": 19,
+      "word": "positive",
+      "meaning": "Consisting in or characterized by the presence or possession of features or qualities.",
+      "hindi": "सकारात्मक"
+    },
+    {
+      "id": 20,
+      "word": "production",
+      "meaning": "The action of making or manufacturing from components or raw materials.",
+      "hindi": "उत्पादन"
+    },
+    {
+      "id": 21,
+      "word": "property",
+      "meaning": "A thing or things belonging to someone; possessions collectively.",
+      "hindi": "संपत्ति"
+    },
+    {
+      "id": 22,
+      "word": "quality",
+      "meaning": "The standard of something as measured against other things of a similar kind.",
+      "hindi": "गुणवत्ता"
+    },
+    {
+      "id": 23,
+      "word": "reach",
+      "meaning": "The extent or range of something's application, effect, or influence.",
+      "hindi": "पहुंच"
+    },
+    {
+      "id": 24,
+      "word": "recent",
+      "meaning": "Happened, began, or been done not long ago.",
+      "hindi": "नया"
+    },
+    {
+      "id": 25,
+      "word": "reflect",
+      "meaning": "Throw back heat, light, or sound without absorbing it.",
+      "hindi": "प्रतिबिंबित करना"
+    },
+    {
+      "id": 26,
+      "word": "resource",
+      "meaning": "A stock or supply of money, materials, staff, and other assets.",
+      "hindi": "संसाधन"
+    },
+    {
+      "id": 27,
+      "word": "section",
+      "meaning": "Any of the more or less distinct parts into which something is or may be divided.",
+      "hindi": "खंड"
+    },
+    {
+      "id": 28,
+      "word": "sexual",
+      "meaning": "Relating to the instincts, physiological processes, and activities connected with physical attraction.",
+      "hindi": "यौन"
+    },
+    {
+      "id": 29,
+      "word": "similar",
+      "meaning": "Having a resemblance in appearance, character, or quantity, without being identical.",
+      "hindi": "एक जैसा"
+    },
+    {
+      "id": 30,
+      "word": "skill",
+      "meaning": "The ability to do something well; expertise.",
+      "hindi": "कौशल"
+    },
+    {
+      "id": 31,
+      "word": "somebody",
+      "meaning": "Someone; some person.",
+      "hindi": "कोई व्यक्ति"
+    },
+    {
+      "id": 32,
+      "word": "sort",
+      "meaning": "A category of things or people with a common feature.",
+      "hindi": "प्रकार"
+    },
+    {
+      "id": 33,
+      "word": "staff",
+      "meaning": "All the people employed by a particular organization.",
+      "hindi": "कर्मचारी वर्ग"
+    },
+    {
+      "id": 34,
+      "word": "standard",
+      "meaning": "A level of quality or attainment.",
+      "hindi": "मानक"
+    },
+    {
+      "id": 35,
+      "word": "station",
+      "meaning": "A regular stopping place on a public transport route.",
+      "hindi": "स्टेशन"
+    },
+    {
+      "id": 36,
+      "word": "technology",
+      "meaning": "The application of scientific knowledge for practical purposes.",
+      "hindi": "तकनीक"
+    },
+    {
+      "id": 37,
+      "word": "television",
+      "meaning": "A system for transmitting visual images and sound that are reproduced on screens.",
+      "hindi": "टेलीविजन"
+    },
+    {
+      "id": 38,
+      "word": "that",
+      "meaning": "Referring to the more distant of two things.",
+      "hindi": "वह"
+    },
+    {
+      "id": 39,
+      "word": "thought",
+      "meaning": "An idea or opinion produced by thinking, or occurring suddenly in the mind.",
+      "hindi": "विचार"
+    },
+    {
+      "id": 40,
+      "word": "threat",
+      "meaning": "A statement of an intention to inflict pain, injury, damage, or other hostile action.",
+      "hindi": "धमकी"
+    },
+    {
+      "id": 41,
+      "word": "throughout",
+      "meaning": "In every part of a place or object.",
+      "hindi": "पूरे"
+    },
+    {
+      "id": 42,
+      "word": "training",
+      "meaning": "The action of teaching a person or animal a particular skill or type of behavior.",
+      "hindi": "प्रशिक्षण"
+    },
+    {
+      "id": 43,
+      "word": "trouble",
+      "meaning": "Difficulty or problems.",
+      "hindi": "परेशानी"
+    },
+    {
+      "id": 44,
+      "word": "unit",
+      "meaning": "An individual thing or person regarded as single and complete.",
+      "hindi": "इकाई"
+    },
+    {
+      "id": 45,
+      "word": "various",
+      "meaning": "More than one; several.",
+      "hindi": "अनेक"
+    },
+    {
+      "id": 46,
+      "word": "victim",
+      "meaning": "A person harmed, injured, or killed as a result of a crime, accident, or other event.",
+      "hindi": "पीड़ित"
+    },
+    {
+      "id": 47,
+      "word": "violence",
+      "meaning": "Behavior involving physical force intended to hurt, damage, or kill.",
+      "hindi": "हिंसा"
+    },
+    {
+      "id": 48,
+      "word": "wear",
+      "meaning": "Damage, erode, or destroy by friction or use.",
+      "hindi": "घिसना"
+    },
+    {
+      "id": 49,
+      "word": "whose",
+      "meaning": "Used to ask about ownership.",
+      "hindi": "किसका"
+    },
+    {
+      "id": 50,
+      "word": "wind",
+      "meaning": "The perceptible natural movement of the air.",
+      "hindi": "हवा"
+    }
+  ],
+  "19": [
+    {
+      "id": 1,
+      "word": "action",
+      "meaning": "A lawsuit.",
+      "hindi": "मुकदमा"
+    },
+    {
+      "id": 2,
+      "word": "admit",
+      "meaning": "Confess to be true or to be the case.",
+      "hindi": "स्वीकार करना"
+    },
+    {
+      "id": 3,
+      "word": "agree",
+      "meaning": "To have the same opinion.",
+      "hindi": "सहमत"
+    },
+    {
+      "id": 4,
+      "word": "ahead",
+      "meaning": "Further forward in space; in the line of one's forward motion.",
+      "hindi": "आगे"
+    },
+    {
+      "id": 5,
+      "word": "analysis",
+      "meaning": "Detailed examination of the elements or structure of something.",
+      "hindi": "विश्लेषण"
+    },
+    {
+      "id": 6,
+      "word": "apply",
+      "meaning": "Make a formal application or request.",
+      "hindi": "आवेदन करना"
+    },
+    {
+      "id": 7,
+      "word": "as",
+      "meaning": "In the capacity of.",
+      "hindi": "के तौर पर"
+    },
+    {
+      "id": 8,
+      "word": "assume",
+      "meaning": "Suppose to be the case, without proof.",
+      "hindi": "मान लेना"
+    },
+    {
+      "id": 9,
+      "word": "authority",
+      "meaning": "The power or right to give orders, make decisions, and enforce obedience.",
+      "hindi": "अधिकार"
+    },
+    {
+      "id": 10,
+      "word": "bar",
+      "meaning": "A long rigid piece of wood, metal, or similar material.",
+      "hindi": "छड़"
+    },
+    {
+      "id": 11,
+      "word": "behind",
+      "meaning": "In a position so as to be concealed by.",
+      "hindi": "के पीछे"
+    },
+    {
+      "id": 12,
+      "word": "bit",
+      "meaning": "A small piece, part, or quantity of something.",
+      "hindi": "टुकड़ा"
+    },
+    {
+      "id": 13,
+      "word": "candidate",
+      "meaning": "A person who applies for a job or is nominated for election.",
+      "hindi": "उम्मीदवार"
+    },
+    {
+      "id": 14,
+      "word": "capital",
+      "meaning": "The most important city or town of a country or region.",
+      "hindi": "राजधानी"
+    },
+    {
+      "id": 15,
+      "word": "challenge",
+      "meaning": "To dispute the truth or validity of.",
+      "hindi": "चुनौती देना"
+    },
+    {
+      "id": 16,
+      "word": "citizen",
+      "meaning": "A legally recognized subject or national of a state or commonwealth.",
+      "hindi": "नागरिक"
+    },
+    {
+      "id": 17,
+      "word": "civil",
+      "meaning": "Relating to ordinary citizens and their concerns.",
+      "hindi": "नागरिक"
+    },
+    {
+      "id": 18,
+      "word": "clear",
+      "meaning": "To free from ambiguity or confusion.",
+      "hindi": "स्पष्ट करना"
+    },
+    {
+      "id": 19,
+      "word": "club",
+      "meaning": "An association dedicated to a particular interest or activity.",
+      "hindi": "क्लब"
+    },
+    {
+      "id": 20,
+      "word": "cold",
+      "meaning": "A common viral infection of the nose and throat.",
+      "hindi": "सर्दी"
+    },
+    {
+      "id": 21,
+      "word": "conference",
+      "meaning": "A formal meeting for discussion.",
+      "hindi": "सम्मेलन"
+    },
+    {
+      "id": 22,
+      "word": "congressional",
+      "meaning": "Relating to the US Congress.",
+      "hindi": "कांग्रेसी"
+    },
+    {
+      "id": 23,
+      "word": "court",
+      "meaning": "A place where legal cases are heard.",
+      "hindi": "अदालत"
+    },
+    {
+      "id": 24,
+      "word": "crime",
+      "meaning": "An action or omission that constitutes an offense that may be prosecuted.",
+      "hindi": "अपराध"
+    },
+    {
+      "id": 25,
+      "word": "cup",
+      "meaning": "A small bowl-shaped container for drinking from.",
+      "hindi": "कप"
+    },
+    {
+      "id": 26,
+      "word": "dark",
+      "meaning": "With little or no light.",
+      "hindi": "अंधेरा"
+    },
+    {
+      "id": 27,
+      "word": "deep",
+      "meaning": "Extending far down from the top or surface.",
+      "hindi": "गहरा"
+    },
+    {
+      "id": 28,
+      "word": "degree",
+      "meaning": "The amount, level, or extent to which something happens or is present.",
+      "hindi": "डिग्री"
+    },
+    {
+      "id": 29,
+      "word": "design",
+      "meaning": "A plan or drawing produced to show the look and function of something.",
+      "hindi": "डिज़ाइन"
+    },
+    {
+      "id": 30,
+      "word": "detail",
+      "meaning": "An individual feature, fact, or item.",
+      "hindi": "विवरण"
+    },
+    {
+      "id": 31,
+      "word": "determine",
+      "meaning": "To officially decide something.",
+      "hindi": "तय करना"
+    },
+    {
+      "id": 32,
+      "word": "direction",
+      "meaning": "The management or guidance of an activity.",
+      "hindi": "निर्देश"
+    },
+    {
+      "id": 33,
+      "word": "discussion",
+      "meaning": "A conversation about a topic.",
+      "hindi": "बहस"
+    },
+    {
+      "id": 34,
+      "word": "disease",
+      "meaning": "A disorder of structure or function in a human, animal, or plant.",
+      "hindi": "बीमारी"
+    },
+    {
+      "id": 35,
+      "word": "down",
+      "meaning": "From a higher to a lower point.",
+      "hindi": "नीचे की ओर"
+    },
+    {
+      "id": 36,
+      "word": "dream",
+      "meaning": "A series of thoughts, images, and sensations occurring in a person's mind during sleep.",
+      "hindi": "सपना"
+    },
+    {
+      "id": 37,
+      "word": "drink",
+      "meaning": "A liquid that can be swallowed as refreshment or nourishment.",
+      "hindi": "पेय"
+    },
+    {
+      "id": 38,
+      "word": "drive",
+      "meaning": "A trip or journey in a car.",
+      "hindi": "सैर"
+    },
+    {
+      "id": 39,
+      "word": "edge",
+      "meaning": "The outside limit of an object, area, or surface.",
+      "hindi": "किनारा"
+    },
+    {
+      "id": 40,
+      "word": "education",
+      "meaning": "The process of receiving systematic instruction.",
+      "hindi": "शिक्षा"
+    },
+    {
+      "id": 41,
+      "word": "effect",
+      "meaning": "To cause something to happen.",
+      "hindi": "प्रभावित करना"
+    },
+    {
+      "id": 42,
+      "word": "environmental",
+      "meaning": "Relating to the natural world and the impact of human activity on its condition.",
+      "hindi": "पर्यावरणीय"
+    },
+    {
+      "id": 43,
+      "word": "establish",
+      "meaning": "To show something to be true or certain by determining the facts.",
+      "hindi": "सिद्ध करना"
+    },
+    {
+      "id": 44,
+      "word": "exist",
+      "meaning": "Have objective reality or being.",
+      "hindi": "अस्तित्व में होना"
+    },
+    {
+      "id": 45,
+      "word": "extend",
+      "meaning": "Cause to cover a larger area; make longer or wider.",
+      "hindi": "बढ़ाना"
+    },
+    {
+      "id": 46,
+      "word": "fall",
+      "meaning": "A decrease in size, number, or quality.",
+      "hindi": "गिरावट"
+    },
+    {
+      "id": 47,
+      "word": "farm",
+      "meaning": "An area of land and its buildings used for growing crops and rearing animals.",
+      "hindi": "खेत"
+    },
+    {
+      "id": 48,
+      "word": "fast",
+      "meaning": "Moving or capable of moving at high speed.",
+      "hindi": "तेज़"
+    },
+    {
+      "id": 49,
+      "word": "fear",
+      "meaning": "An unpleasant emotion caused by the belief that someone or something is dangerous.",
+      "hindi": "डर"
+    },
+    {
+      "id": 50,
+      "word": "feel",
+      "meaning": "To have a belief or impression.",
+      "hindi": "लगना"
+    }
+  ],
+  "20": [
+    {
+      "id": 1,
+      "word": "feeling",
+      "meaning": "An emotional state or reaction.",
+      "hindi": "भावना"
+    },
+    {
+      "id": 2,
+      "word": "field",
+      "meaning": "A particular branch of study or sphere of activity or interest.",
+      "hindi": "क्षेत्र"
+    },
+    {
+      "id": 3,
+      "word": "financial",
+      "meaning": "Relating to finance.",
+      "hindi": "वित्तीय"
+    },
+    {
+      "id": 4,
+      "word": "fine",
+      "meaning": "To require someone to pay money as a punishment.",
+      "hindi": "जुर्माना"
+    },
+    {
+      "id": 5,
+      "word": "firm",
+      "meaning": "Strongly felt and unlikely to change.",
+      "hindi": "दृढ़"
+    },
+    {
+      "id": 6,
+      "word": "fish",
+      "meaning": "A limbless cold-blooded vertebrate animal with gills and fins living wholly in water.",
+      "hindi": "मछली"
+    },
+    {
+      "id": 7,
+      "word": "focus",
+      "meaning": "To adapt to the prevailing level of light and become able to see clearly.",
+      "hindi": "केंद्रित होना"
+    },
+    {
+      "id": 8,
+      "word": "foot",
+      "meaning": "A unit of linear measure equal to 12 inches.",
+      "hindi": "फुट"
+    },
+    {
+      "id": 9,
+      "word": "force",
+      "meaning": "To make a way through or into by physical strength.",
+      "hindi": "बलपूर्वक"
+    },
+    {
+      "id": 10,
+      "word": "foreign",
+      "meaning": "Strange and unfamiliar.",
+      "hindi": "अपरिचित"
+    },
+    {
+      "id": 11,
+      "word": "forget",
+      "meaning": "Fail to remember.",
+      "hindi": "भूलना"
+    },
+    {
+      "id": 12,
+      "word": "friend",
+      "meaning": "A member of the Religious Society of Friends; a Quaker.",
+      "hindi": "मित्र"
+    },
+    {
+      "id": 13,
+      "word": "front",
+      "meaning": "The side or part of an object that presents itself to view.",
+      "hindi": "सामने"
+    },
+    {
+      "id": 14,
+      "word": "fund",
+      "meaning": "A sum of money saved or made available for a particular purpose.",
+      "hindi": "निधि"
+    },
+    {
+      "id": 15,
+      "word": "general",
+      "meaning": "Affecting or concerning all or most people, places, or things; widespread.",
+      "hindi": "सामान्य"
+    },
+    {
+      "id": 16,
+      "word": "glass",
+      "meaning": "A hard, brittle substance, typically transparent or translucent.",
+      "hindi": "कांच"
+    },
+    {
+      "id": 17,
+      "word": "go",
+      "meaning": "To depart; leave.",
+      "hindi": "चले जाना"
+    },
+    {
+      "id": 18,
+      "word": "government",
+      "meaning": "The action or manner of controlling or regulating a state, organization, or people.",
+      "hindi": "शासन"
+    },
+    {
+      "id": 19,
+      "word": "hair",
+      "meaning": "A person's hair.",
+      "hindi": "केश"
+    },
+    {
+      "id": 20,
+      "word": "hand",
+      "meaning": "Help with a task.",
+      "hindi": "मदद करना"
+    },
+    {
+      "id": 21,
+      "word": "hang",
+      "meaning": "Suspend or be suspended from above with the lower part dangling free.",
+      "hindi": "लटकाना"
+    },
+    {
+      "id": 22,
+      "word": "happen",
+      "meaning": "To chance to occur.",
+      "hindi": "हो जाना"
+    },
+    {
+      "id": 23,
+      "word": "hard",
+      "meaning": "With a great deal of effort.",
+      "hindi": "कठिनाई से"
+    },
+    {
+      "id": 24,
+      "word": "he",
+      "meaning": "Any person (not necessarily male).",
+      "hindi": "कोई व्यक्ति"
+    },
+    {
+      "id": 25,
+      "word": "health",
+      "meaning": "A person's mental or physical condition.",
+      "hindi": "हालत"
+    },
+    {
+      "id": 26,
+      "word": "heavy",
+      "meaning": "Of great weight; difficult to lift or move.",
+      "hindi": "भारी"
+    },
+    {
+      "id": 27,
+      "word": "her",
+      "meaning": "Belonging to or associated with a female person.",
+      "hindi": "उसकी"
+    },
+    {
+      "id": 28,
+      "word": "herself",
+      "meaning": "Used as the object of a verb or preposition to refer to a female person.",
+      "hindi": "वह स्वयं"
+    },
+    {
+      "id": 29,
+      "word": "high",
+      "meaning": "A high point, level, or figure.",
+      "hindi": "उच्च"
+    },
+    {
+      "id": 30,
+      "word": "him",
+      "meaning": "Used as the object of a verb or preposition to refer to a male person.",
+      "hindi": "उसे"
+    },
+    {
+      "id": 31,
+      "word": "his",
+      "meaning": "Belonging to or associated with a male person or animal.",
+      "hindi": "उसका"
+    },
+    {
+      "id": 32,
+      "word": "history",
+      "meaning": "The whole series of past events connected with someone or something.",
+      "hindi": "इतिहास"
+    },
+    {
+      "id": 33,
+      "word": "hit",
+      "meaning": "A successful venture.",
+      "hindi": "सफलता"
+    },
+    {
+      "id": 34,
+      "word": "hold",
+      "meaning": "An act or manner of grasping someone or something.",
+      "hindi": "पकड़"
+    },
+    {
+      "id": 35,
+      "word": "hot",
+      "meaning": "Having a high temperature.",
+      "hindi": "तीखा"
+    },
+    {
+      "id": 36,
+      "word": "hotel",
+      "meaning": "An establishment providing accommodations, meals, and other services for travelers.",
+      "hindi": "होटल"
+    },
+    {
+      "id": 37,
+      "word": "however",
+      "meaning": "In whatever way; regardless of how.",
+      "hindi": "कैसे भी"
+    },
+    {
+      "id": 38,
+      "word": "human",
+      "meaning": "A human being.",
+      "hindi": "इंसान"
+    },
+    {
+      "id": 39,
+      "word": "I",
+      "meaning": "The self, or the ego.",
+      "hindi": "अहं"
+    },
+    {
+      "id": 40,
+      "word": "ice",
+      "meaning": "Frozen water.",
+      "hindi": "बर्फ"
+    },
+    {
+      "id": 41,
+      "word": "idea",
+      "meaning": "The aim or purpose.",
+      "hindi": "उद्देश्य"
+    },
+    {
+      "id": 42,
+      "word": "if",
+      "meaning": "A condition or supposition.",
+      "hindi": "शर्त"
+    },
+    {
+      "id": 43,
+      "word": "important",
+      "meaning": "Having a high social status.",
+      "hindi": "प्रतिष्ठित"
+    },
+    {
+      "id": 44,
+      "word": "improve",
+      "meaning": "Make or become better.",
+      "hindi": "सुधारना"
+    },
+    {
+      "id": 45,
+      "word": "in",
+      "meaning": "Expressing inclusion or involvement.",
+      "hindi": "के अंतर्गत"
+    },
+    {
+      "id": 46,
+      "word": "increase",
+      "meaning": "A rise in the size, amount, or degree of something.",
+      "hindi": "वृद्धि"
+    },
+    {
+      "id": 47,
+      "word": "indicate",
+      "meaning": "Point out; show.",
+      "hindi": "दिखाना"
+    },
+    {
+      "id": 48,
+      "word": "instead",
+      "meaning": "In place of.",
+      "hindi": "की जगह"
+    },
+    {
+      "id": 49,
+      "word": "interest",
+      "meaning": "Money paid regularly at a particular rate for the use of money lent.",
+      "hindi": "ब्याज"
+    },
+    {
+      "id": 50,
+      "word": "into",
+      "meaning": "Expressing a change of state.",
+      "hindi": "में बदलना"
+    }
+  ]
+}
