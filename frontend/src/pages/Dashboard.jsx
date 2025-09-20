@@ -170,7 +170,7 @@ const Dashboard = () => {
 
         const fetchUserData = async () => {
             try {
-                const response = await fetch("/api/user/progress", {
+                const response = await fetch(`${import.meta.env.VITE_API_URL}/api/user/progress`, {
                     headers: { Authorization: `Bearer ${token}` },
                 });
                 if (!response.ok) throw new Error("Failed to fetch data");
