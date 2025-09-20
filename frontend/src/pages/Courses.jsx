@@ -23,13 +23,13 @@ const Courses = () => {
                 return;
             }
             try {
-                const courseStructureRes = await fetch("http://localhost:5000/api/courses", {
+                const courseStructureRes = await fetch("/api/courses", {
                     headers: { Authorization: `Bearer ${token}` },
                 });
                 if (!courseStructureRes.ok) throw new Error("Failed to fetch course structure");
                 const courseStructureData = await courseStructureRes.json();
 
-                const userProgressRes = await fetch("http://localhost:5000/api/user/progress", {
+                const userProgressRes = await fetch("/api/user/progress", {
                     headers: { Authorization: `Bearer ${token}` },
                 });
                 if (!userProgressRes.ok) throw new Error("Failed to fetch user progress");
@@ -63,7 +63,7 @@ const Courses = () => {
         if (isOpening && !wordsByDay[dayNum]) {
             setLoadingWordsForDay(dayNum);
             try {
-                const res = await fetch(`http://localhost:5000/api/courses/${dayNum}`, {
+                const res = await fetch(`/api/courses/${dayNum}`, {
                     headers: { Authorization: `Bearer ${token}` },
                 });
                 if (!res.ok) throw new Error(`Failed to fetch words for day ${dayNum}`);
@@ -79,7 +79,7 @@ const Courses = () => {
 
     const markWordRead = async (dayNum, wordObject) => {
         try {
-            const res = await fetch("http://localhost:5000/api/courses/mark", {
+            const res = await fetch("/api/courses/mark", {
                 method: "PUT",
                 headers: {
                     "Content-Type": "application/json",
