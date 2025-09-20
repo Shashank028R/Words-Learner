@@ -20,10 +20,6 @@
     },
     {
       "src": "/(.*)",
-      "handle": "filesystem"
-    },
-    {
-      "src": "/(.*)",
       "dest": "/frontend/dist/index.html"
     }
   ]
